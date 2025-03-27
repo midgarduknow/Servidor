@@ -184,6 +184,7 @@
       "minecraft:zombified_piglin": "2025-03-27 06:14:52 +0000",
       "minecraft:witch": "2025-03-27 03:56:15 +0000",
       "minecraft:wither_skeleton": "2025-03-27 17:41:49 +0000",
+      "minecraft:husk": "2025-03-27 18:23:35 +0000",
       "minecraft:cave_spider": "2025-03-27 17:45:47 +0000",
       "minecraft:piglin": "2025-03-27 06:04:09 +0000",
       "minecraft:enderman": "2025-03-27 04:53:24 +0000",
@@ -212,6 +213,7 @@
       "baked_potato": "2025-03-27 02:50:01 +0000",
       "beef": "2025-03-27 04:51:30 +0000",
       "bread": "2025-03-27 03:01:47 +0000",
+      "golden_apple": "2025-03-27 18:36:05 +0000",
       "golden_carrot": "2025-03-27 05:06:45 +0000",
       "carrot": "2025-03-27 02:56:03 +0000"
     },
@@ -4041,6 +4043,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-27 18:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-27 16:58:32 +0000"
@@ -4053,6 +4061,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2025-03-27 18:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_the_recipe": "2025-03-27 18:31:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-03-27 16:58:32 +0000"
@@ -4062,6 +4082,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-27 18:31:33 +0000"
     },
     "done": true
   },
@@ -4125,6 +4151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-27 18:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-03-27 16:58:32 +0000"
@@ -4161,6 +4193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-27 18:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-03-27 16:56:01 +0000"
@@ -4173,15 +4211,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-03-27 18:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-27 18:11:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-27 18:28:54 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-03-27 16:39:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2025-03-27 18:38:25 +0000"
     },
     "done": true
   },
@@ -4197,9 +4253,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-27 18:31:33 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-03-27 18:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-03-27 18:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-03-27 18:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-03-27 18:28:54 +0000"
     },
     "done": true
   },
@@ -4257,6 +4337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-27 18:32:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-03-27 17:34:58 +0000"
@@ -4293,6 +4379,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-03-27 18:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-27 16:59:53 +0000"
@@ -4308,6 +4400,18 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-27 18:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-27 18:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-27 18:31:35 +0000"
     },
     "done": true
   },
@@ -4395,9 +4499,33 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-03-27 18:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-03-27 18:25:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-03-27 18:31:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_blue_sleeping_bag": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-27 18:31:33 +0000"
     },
     "done": true
   },
@@ -4425,6 +4553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-27 18:32:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-27 18:11:23 +0000"
@@ -4448,6 +4582,12 @@
       "has_cobbled_deepslate": "2025-03-27 18:11:23 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2025-03-27 18:38:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

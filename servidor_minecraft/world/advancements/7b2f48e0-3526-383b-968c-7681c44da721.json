@@ -287,7 +287,8 @@
       "bread": "2025-03-27 03:02:30 +0000",
       "golden_apple": "2025-03-27 04:08:35 +0000",
       "rotten_flesh": "2025-03-26 17:21:19 +0000",
-      "suspicious_stew": "2025-03-27 04:18:54 +0000"
+      "suspicious_stew": "2025-03-27 04:18:54 +0000",
+      "golden_carrot": "2025-03-27 18:20:04 +0000"
     },
     "done": false
   },
@@ -3621,6 +3622,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/warden": {
+    "criteria": {
+      "has_echo_shard": "2025-03-27 18:27:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-03-27 16:58:43 +0000"
@@ -3663,6 +3670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-27 18:28:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-03-27 17:47:48 +0000"
@@ -3678,6 +3691,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-27 17:42:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-27 18:30:28 +0000"
     },
     "done": true
   },
@@ -3981,6 +4000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-03-27 18:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-27 16:55:44 +0000"
@@ -4098,6 +4123,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-27 17:30:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-03-27 18:27:28 +0000"
     },
     "done": true
   },

@@ -685,3 +685,141 @@
 [27Mar2025 18:19:10.621] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.19.10.dat
 [27Mar2025 18:19:10.631] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
 [27Mar2025 18:19:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Discreet Search]
+[27Mar2025 18:22:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was doomed to fall by Warden
+[27Mar2025 18:22:25.337] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.22.25.dat
+[27Mar2025 18:22:25.338] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:22:53.263] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1339, y=-16, z=319}
+[27Mar2025 18:23:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:23:09.783] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:23:17.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
+[27Mar2025 18:23:17.945] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:23:30.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/38985, l='ServerLevel[world]', x=1145.30, y=-50.00, z=107.70] died: Vouzhul the Darkmaster was slain by Warden
+[27Mar2025 18:23:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
+[27Mar2025 18:23:38.426] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.23.38.dat
+[27Mar2025 18:23:38.436] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:24:15.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:24:15.434] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:24:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Warden
+[27Mar2025 18:24:37.972] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.24.37.dat
+[27Mar2025 18:24:37.991] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:24:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:24:50.274] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.24.50.dat
+[27Mar2025 18:24:50.289] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:25:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
+[27Mar2025 18:25:13.523] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.25.13.dat
+[27Mar2025 18:25:13.551] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:25:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Chain Death]
+[27Mar2025 18:25:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:25:25.472] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.25.25.dat
+[27Mar2025 18:25:25.491] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:25:27.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 17a14630-7183-39be-ad60-214f2ed89342 timed out
+[27Mar2025 18:25:27.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Manuel_Jota_23
+[27Mar2025 18:25:27.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Manuel_Jota_23
+[27Mar2025 18:25:31.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17a14630-7183-39be-ad60-214f2ed89342
+[27Mar2025 18:25:32.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17a14630-7183-39be-ad60-214f2ed89342
+[27Mar2025 18:25:32.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342) successfully connected to voice chat
+[27Mar2025 18:26:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
+[27Mar2025 18:26:01.369] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.26.01.dat
+[27Mar2025 18:26:01.385] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:26:12.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:26:12.323] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.26.12.dat
+[27Mar2025 18:26:12.340] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:26:45.462] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1457, y=-2, z=217}
+[27Mar2025 18:26:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
+[27Mar2025 18:26:46.823] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.26.46.dat
+[27Mar2025 18:26:46.840] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:27:58.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
+[27Mar2025 18:27:58.717] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.27.58.dat
+[27Mar2025 18:27:58.731] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:29:06.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Amateur Archaeologist]
+[27Mar2025 18:29:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was burnt to a crisp whilst fighting Warden
+[27Mar2025 18:29:44.527] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.29.44.dat
+[27Mar2025 18:29:44.531] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:30:06.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Warden
+[27Mar2025 18:30:06.529] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.30.06.dat
+[27Mar2025 18:30:06.549] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:30:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Alex's Caves]
+[27Mar2025 18:30:50.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
+[27Mar2025 18:30:50.169] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.30.50.dat
+[27Mar2025 18:30:50.196] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:30:59.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:30:59.123] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.30.59.dat
+[27Mar2025 18:30:59.146] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:31:10.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Warden
+[27Mar2025 18:31:10.331] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.31.10.dat
+[27Mar2025 18:31:10.356] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:31:44.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Warden
+[27Mar2025 18:31:44.979] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:32:20.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:32:20.919] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.32.20.dat
+[27Mar2025 18:32:20.936] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:32:23.314] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=968, y=-10, z=369}
+[27Mar2025 18:32:46.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
+[27Mar2025 18:32:46.673] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.32.46.dat
+[27Mar2025 18:32:46.695] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:32:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:32:56.572] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.32.56.dat
+[27Mar2025 18:32:56.588] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:33:21.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was doomed to fall by Warden
+[27Mar2025 18:33:21.882] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.33.21.dat
+[27Mar2025 18:33:21.884] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:33:39.468] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=965, y=-20, z=396}
+[27Mar2025 18:33:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was doomed to fall by Warden
+[27Mar2025 18:33:44.550] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.33.44.dat
+[27Mar2025 18:33:44.555] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:33:45.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1050, y=-2, z=404}
+[27Mar2025 18:36:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:36:10.744] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:36:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:36:19.898] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:36:21.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:36:21.058] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.36.21.dat
+[27Mar2025 18:36:21.068] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:36:28.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:36:28.227] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:36:37.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:36:37.345] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:36:41.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
+[27Mar2025 18:36:41.935] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.36.41.dat
+[27Mar2025 18:36:41.946] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:36:47.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:36:47.396] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:36:57.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:36:57.957] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:37:09.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:37:09.099] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:37:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
+[27Mar2025 18:37:21.232] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.37.21.dat
+[27Mar2025 18:37:21.258] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:37:21.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:37:21.445] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:37:30.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:37:30.608] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:37:39.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
+[27Mar2025 18:37:39.533] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.37.39.dat
+[27Mar2025 18:37:39.553] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:37:40.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:37:40.297] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:37:50.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:37:50.198] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:37:58.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:37:58.794] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:38:07.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:38:07.397] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:38:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
+[27Mar2025 18:38:15.706] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 18:38:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:38:18.275] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.38.18.dat
+[27Mar2025 18:38:18.290] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:38:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [Phantom Thief]
+[27Mar2025 18:39:06.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Aleksito27 to Midgard2552]
+[27Mar2025 18:39:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:39:09.077] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.39.09.dat
+[27Mar2025 18:39:09.088] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:39:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:39:35.480] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.39.35.dat
+[27Mar2025 18:39:35.494] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:40:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:40:02.779] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.40.02.dat
+[27Mar2025 18:40:02.794] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:40:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has completed the challenge [Phantom Thief]
