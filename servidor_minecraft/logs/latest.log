@@ -584,3 +584,57 @@
 [27Mar2025 17:49:11.636] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
 [27Mar2025 17:49:34.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47702, l='ServerLevel[world]', x=1096.67, y=206.01, z=54.35] died: Dinnerbone was shot by Dinnerbone
 [27Mar2025 17:49:36.668] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/44744, l='ServerLevel[world]', x=1096.40, y=206.01, z=51.47] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:50:35.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/44745, l='ServerLevel[world]', x=1095.29, y=206.01, z=51.36] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
+[27Mar2025 17:51:51.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48970, l='ServerLevel[world]', x=1102.29, y=198.01, z=34.30] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:51:59.065] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48748, l='ServerLevel[world]', x=1110.70, y=206.01, z=33.30] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:52:17.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51138, l='ServerLevel[world]', x=1105.79, y=198.01, z=39.47] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:52:24.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51451, l='ServerLevel[world]', x=1105.64, y=198.01, z=40.70] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
+[27Mar2025 17:53:04.067] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49605, l='ServerLevel[world]', x=1095.90, y=198.01, z=63.63] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:53:08.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51761, l='ServerLevel[world]', x=1089.18, y=198.01, z=60.64] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:53:11.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49607, l='ServerLevel[world]', x=1086.65, y=198.01, z=66.63] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:53:11.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51000, l='ServerLevel[world]', x=1089.70, y=198.01, z=63.26] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
+[27Mar2025 17:53:19.775] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1862e93e[id=<null>,name=Manuel_Jota_23,properties={},legacy=false] (/127.122.180.152:56683) lost connection: Disconnected
+[27Mar2025 17:53:27.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Manuel_Jota_23[/127.122.180.152:60467] logged in with entity id 52361 at (1099.300000011921, 210.0, 32.30000001192093)
+[27Mar2025 17:53:27.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 joined the game
+[27Mar2025 17:53:27.249] [Server thread/INFO] [Jade/]: Syncing config to Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342)
+[27Mar2025 17:53:27.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Manuel_Jota_23 (18)
+[27Mar2025 17:53:27.922] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Manuel_Jota_23
+[27Mar2025 17:53:30.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17a14630-7183-39be-ad60-214f2ed89342
+[27Mar2025 17:53:31.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17a14630-7183-39be-ad60-214f2ed89342
+[27Mar2025 17:53:31.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342) successfully connected to voice chat
+[27Mar2025 17:53:48.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47302, l='ServerLevel[world]', x=1095.60, y=206.01, z=48.47] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
+[27Mar2025 17:54:15.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48969, l='ServerLevel[world]', x=1104.20, y=206.01, z=34.02] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:54:35.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51791, l='ServerLevel[world]', x=1105.55, y=190.01, z=64.70] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:54:42.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50328, l='ServerLevel[world]', x=1102.87, y=190.01, z=59.35] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:54:45.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50330, l='ServerLevel[world]', x=1104.67, y=190.01, z=60.79] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:55:30.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
+[27Mar2025 17:55:30.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.55.30.dat
+[27Mar2025 17:55:30.341] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 17:55:33.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51975, l='ServerLevel[world]', x=1105.71, y=190.01, z=62.78] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:55:38.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52372, l='ServerLevel[world]', x=1085.30, y=190.01, z=32.30] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:55:44.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52740, l='ServerLevel[world]', x=1094.62, y=190.01, z=36.42] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:56:15.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53337, l='ServerLevel[world]', x=1121.70, y=182.01, z=60.21] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
+[27Mar2025 17:56:17.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Not Today, Thank You]
+[27Mar2025 17:56:22.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47682, l='ServerLevel[world]', x=1091.74, y=206.01, z=34.35] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:56:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Postmortal]
+[27Mar2025 17:56:24.279] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 17:56:27.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Knowledge of Death]
+[27Mar2025 17:56:27.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Strong or Careful]
+[27Mar2025 17:56:27.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was shot by Dinnerbone
+[27Mar2025 17:56:27.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-17.56.27.dat
+[27Mar2025 17:56:27.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Your First Grave]
+[27Mar2025 17:56:27.133] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 17:56:28.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [The Most Useful Key]
+[27Mar2025 17:56:28.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47684, l='ServerLevel[world]', x=1089.54, y=206.01, z=35.01] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:56:29.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53602, l='ServerLevel[world]', x=1120.36, y=182.01, z=55.43] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
+[27Mar2025 17:56:38.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [A Fast Comeback]
+[27Mar2025 17:56:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Here They Come]
+[27Mar2025 17:57:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Easter Egg Searcher]
+[27Mar2025 17:57:28.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Cave Spider
+[27Mar2025 17:57:28.723] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.57.28.dat
+[27Mar2025 17:57:28.728] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 17:57:29.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50999, l='ServerLevel[world]', x=1090.22, y=198.01, z=63.37] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 17:58:05.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Diamonds!]
+[27Mar2025 17:58:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
+[27Mar2025 17:58:13.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.58.13.dat
+[27Mar2025 17:58:13.435] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
