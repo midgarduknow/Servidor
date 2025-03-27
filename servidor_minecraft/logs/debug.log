@@ -5008,3 +5008,44 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Mar2025 06:03:35.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> ven
 [27Mar2025 06:03:37.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> dungeo
 [27Mar2025 06:03:57.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
+[27Mar2025 06:05:33.196] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 06:05:35.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Piglin Brute
+[27Mar2025 06:05:35.389] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:118, y:61, z:166, dim:minecraft:the_nether]
+[27Mar2025 06:05:35.413] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 06:05:43.886] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[27Mar2025 06:05:45.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [War Pigs]
+[27Mar2025 06:06:31.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Into Fire]
+[27Mar2025 06:06:31.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Into Fire]
+[27Mar2025 06:06:31.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 06:06:31.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 06:06:32.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [War Pigs]
+[27Mar2025 06:06:35.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [It Belongs in a Museum]
+[27Mar2025 06:06:40.677] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.u_team_core.menu.ForgeFluidContainerMenuDelegator$Factory@145591ab for class interface info.u_team.u_team_core.menu.FluidContainerMenu$FluidContainerDelegator$Factory
+[27Mar2025 06:06:40.701] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded services [info.u_team.u_team_core.impl.extension.ForgeMenuUtilExtension@50f71b6a] for class interface info.u_team.u_team_core.util.MenuUtil$Extension
+[27Mar2025 06:06:54.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12882, l='ServerLevel[world]', x=78.18, y=138.36, z=191.12] died: Restless Spirit starved to death
+[27Mar2025 06:07:00.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Strong or Careful]
+[27Mar2025 06:07:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Piglin Brute
+[27Mar2025 06:07:00.737] [Server thread/DEBUG] [tombstone/]: A new grave of the player Aleksito27 was created at position [x:120, y:46, z:163, dim:minecraft:the_nether]
+[27Mar2025 06:07:00.757] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 06:07:03.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Piglin Brute
+[27Mar2025 06:07:03.466] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-06.07.03.dat
+[27Mar2025 06:07:03.467] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:125, y:46, z:167, dim:minecraft:the_nether]
+[27Mar2025 06:07:03.486] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 06:07:12.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Piglin Brute
+[27Mar2025 06:07:12.211] [Server thread/DEBUG] [tombstone/]: A new grave of the player Aleksito27 was created at position [x:121, y:46, z:163, dim:minecraft:the_nether]
+[27Mar2025 06:07:12.232] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[27Mar2025 06:07:19.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Discreet Search]
+[27Mar2025 06:09:03.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14174, l='ServerLevel[world]', x=92.36, y=131.43, z=102.90] died: Restless Spirit starved to death
+[27Mar2025 06:09:23.848] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/13341, l='ServerLevel[world]', x=83.61, y=36.88, z=167.85] died: Samuel the Pit Master was slain by Aleksito27
+[27Mar2025 06:09:55.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14368, l='ServerLevel[world]', x=17.79, y=123.78, z=119.46] died: Restless Spirit starved to death
+[27Mar2025 06:10:37.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> dame hierro
+[27Mar2025 06:11:14.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14533, l='ServerLevel[world]', x=95.16, y=132.63, z=94.74] died: Restless Spirit starved to death
+[27Mar2025 06:11:14.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14535, l='ServerLevel[world]', x=96.48, y=122.33, z=83.84] died: Restless Spirit starved to death
+[27Mar2025 06:11:31.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 06:11:31.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 06:11:37.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Not even afraid of death]
+[27Mar2025 06:11:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Back to childhood]
+[27Mar2025 06:12:36.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14722, l='ServerLevel[world]', x=52.73, y=168.62, z=136.43] died: Restless Spirit starved to death
+[27Mar2025 06:13:51.158] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-204, y=33, z=42} at Chest with:minecraft:chests/bastion_other
+[27Mar2025 06:14:12.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/15268, l='ServerLevel[world]', x=67.80, y=131.70, z=70.77] died: Restless Spirit starved to death
+[27Mar2025 06:14:35.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=80, z=32} BlockPos{x=43, y=80, z=33}
