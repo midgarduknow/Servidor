@@ -4953,3 +4953,58 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Mar2025 05:36:04.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Mar2025 05:41:04.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Mar2025 05:41:04.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 05:44:40.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[27Mar2025 05:46:06.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 05:46:06.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 05:51:06.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 05:51:06.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 05:52:00.986] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Mar2025 05:52:00.987] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Mar2025 05:52:00.988] [Worker-Main-1/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Mar2025 05:52:00.989] [Worker-Main-1/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Mar2025 05:52:00.989] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Mar2025 05:52:00.994] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Mar2025 05:52:00.994] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[27Mar2025 05:52:01.772] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Mar2025 05:52:01.777] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Mar2025 05:52:01.780] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Mar2025 05:52:01.793] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Mar2025 05:52:01.793] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[27Mar2025 05:52:04.660] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[27Mar2025 05:52:04.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[27Mar2025 05:52:30.260] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-126, y=34, z=396}
+[27Mar2025 05:56:08.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 05:56:08.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 05:57:26.333] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Mar2025 05:57:26.354] [Worker-Main-1/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Mar2025 05:57:37.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [We Need to Go Deeper]
+[27Mar2025 05:57:37.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Incendium]
+[27Mar2025 05:57:48.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23290ms or 465 ticks behind
+[27Mar2025 05:57:49.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [We Need to Go Deeper]
+[27Mar2025 05:57:49.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Incendium]
+[27Mar2025 05:58:18.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10817, l='ServerLevel[world]', x=36.20, y=146.16, z=1.99] died: Restless Spirit starved to death
+[27Mar2025 05:58:31.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10880, l='ServerLevel[world]', x=25.51, y=130.20, z=51.85] died: Restless Spirit starved to death
+[27Mar2025 05:58:37.721] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[27Mar2025 05:58:37.726] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[27Mar2025 05:58:41.638] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=77, y=36, z=165} at Chest with:minecraft:chests/bastion_bridge
+[27Mar2025 05:59:44.180] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonshieldboss at BlockPos{x=154, y=53, z=-133} at Chest with:minecraft:chests/nether_bridge
+[27Mar2025 05:59:46.105] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=125, y=41, z=253} at Chest with:minecraft:chests/bastion_bridge
+[27Mar2025 06:00:47.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> tp ven
+[27Mar2025 06:01:04.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [The Soul Forge]
+[27Mar2025 06:01:09.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [The Soul Forge]
+[27Mar2025 06:01:19.702] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=358, y=40, z=-38} at Chest with:minecraft:chests/bastion_other
+[27Mar2025 06:01:25.530] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=357, y=36, z=271} at Chest with:minecraft:chests/bastion_treasure
+[27Mar2025 06:01:31.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 06:01:31.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 06:01:39.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
+[27Mar2025 06:02:39.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/11696, l='ServerLevel[world]', x=128.53, y=94.00, z=-38.62] died: Restless Spirit starved to death
+[27Mar2025 06:02:44.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/11731, l='ServerLevel[world]', x=83.20, y=161.98, z=102.64] died: Restless Spirit starved to death
+[27Mar2025 06:03:07.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/11840, l='ServerLevel[world]', x=19.54, y=124.96, z=87.68] died: Restless Spirit starved to death
+[27Mar2025 06:03:07.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/11843, l='ServerLevel[world]', x=29.77, y=128.74, z=112.11] died: Restless Spirit starved to death
+[27Mar2025 06:03:17.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=74, z=130} BlockPos{x=104, y=73, z=129}
+[27Mar2025 06:03:17.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=74, z=130} BlockPos{x=104, y=73, z=129}
+[27Mar2025 06:03:17.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=74, z=130} BlockPos{x=104, y=73, z=129}
+[27Mar2025 06:03:23.752] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonrangedboss at BlockPos{x=6, y=151, z=351} at Chest with:repurposed_structures:chests/dungeons/nether
+[27Mar2025 06:03:35.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> ven
+[27Mar2025 06:03:37.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> dungeo
+[27Mar2025 06:03:57.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
