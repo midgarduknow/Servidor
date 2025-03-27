@@ -83,11 +83,14 @@
       "minecraft:cherry_grove": "2025-03-26 17:25:57 +0000",
       "minecraft:birch_forest": "2025-03-27 04:53:51 +0000",
       "minecraft:windswept_hills": "2025-03-27 03:54:09 +0000",
+      "minecraft:beach": "2025-03-27 16:44:48 +0000",
       "minecraft:river": "2025-03-27 03:05:40 +0000",
       "minecraft:dripstone_caves": "2025-03-27 03:10:32 +0000",
+      "minecraft:cold_ocean": "2025-03-27 16:45:02 +0000",
       "minecraft:forest": "2025-03-27 03:26:31 +0000",
       "minecraft:windswept_forest": "2025-03-27 04:25:43 +0000",
       "minecraft:meadow": "2025-03-27 04:57:39 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-27 16:48:33 +0000",
       "minecraft:plains": "2025-03-27 02:50:44 +0000"
     },
     "done": false
@@ -199,6 +202,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-27 04:15:41 +0000",
       "cooked_mutton": "2025-03-27 03:41:16 +0000",
+      "cooked_beef": "2025-03-27 16:50:06 +0000",
       "baked_potato": "2025-03-27 02:50:01 +0000",
       "beef": "2025-03-27 04:51:30 +0000",
       "bread": "2025-03-27 03:01:47 +0000",
@@ -4013,9 +4017,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-03-27 16:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-27 16:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-27 16:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2025-03-27 16:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-27 16:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-27 16:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-27 16:56:01 +0000"
     },
     "done": true
   },
@@ -4037,6 +4119,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_feather_fall": {
+    "criteria": {
+      "has_magic_scroll": "2025-03-27 16:45:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-27 16:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-03-27 16:59:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-03-27 16:41:13 +0000"
@@ -4049,6 +4149,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-03-27 16:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-03-27 16:37:01 +0000"
@@ -4058,6 +4170,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-03-27 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-03-27 16:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-27 16:58:32 +0000"
     },
     "done": true
   },
