@@ -6278,3 +6278,76 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Mar2025 18:44:23.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Odell'/81759, l='ServerLevel[world]', x=249.19, y=64.94, z=124.34] died: Odell was slain by Aleksito27 using [Killer Of Virgins]
 [27Mar2025 18:49:16.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Mar2025 18:49:16.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 18:52:42.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Sweet Dreams]
+[27Mar2025 18:53:49.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [We Need to Go Deeper]
+[27Mar2025 18:53:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Incendium]
+[27Mar2025 18:54:16.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 18:54:16.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 18:59:16.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 18:59:16.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 19:04:16.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 19:04:16.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 19:07:07.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manuel_Jota_23 lost connection: Disconnected
+[27Mar2025 19:07:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 left the game
+[27Mar2025 19:07:07.822] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Manuel_Jota_23
+[27Mar2025 19:07:07.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Manuel_Jota_23
+[27Mar2025 19:08:35.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midgard2552 lost connection: Disconnected
+[27Mar2025 19:08:35.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 left the game
+[27Mar2025 19:08:35.019] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Midgard2552
+[27Mar2025 19:08:35.019] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midgard2552
+[27Mar2025 19:08:39.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 lost connection: Disconnected
+[27Mar2025 19:08:39.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 left the game
+[27Mar2025 19:08:39.018] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Aleksito27
+[27Mar2025 19:08:39.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aleksito27
+[27Mar2025 19:08:50.403] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[27Mar2025 19:08:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Mar2025 19:08:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Mar2025 19:08:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Mar2025 19:08:50.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Mar2025 19:08:51.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Mar2025 19:08:51.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Mar2025 19:08:51.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[27Mar2025 19:08:51.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 19:08:51.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Mar2025 19:08:51.127] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[27Mar2025 19:08:51.128] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Mar2025 19:08:51.128] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Servidor/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23209!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Mar2025 19:08:51.129] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27Mar2025 19:08:51.131] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[27Mar2025 19:08:51.132] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[27Mar2025 19:08:51.133] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
