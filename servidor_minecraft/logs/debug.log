@@ -5511,3 +5511,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Mar2025 17:04:12.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Mar2025 17:06:43.242] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=479, y=64, z=1979}) doesn't have enough leaves around top most log
 [27Mar2025 17:07:51.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Not Today, Thank You]
+[27Mar2025 17:09:12.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:09:12.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:14:12.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:14:12.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:14:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Manuel_Jota_23 to Aleksito27]
+[27Mar2025 17:14:48.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
+[27Mar2025 17:18:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [A Strange Grave Dust]
+[27Mar2025 17:19:06.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [What a Deal!]
+[27Mar2025 17:19:12.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:19:12.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
