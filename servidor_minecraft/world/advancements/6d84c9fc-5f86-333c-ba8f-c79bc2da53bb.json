@@ -3341,5 +3341,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-27 05:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-03-27 05:35:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

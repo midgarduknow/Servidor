@@ -348,3 +348,5 @@
 [27Mar2025 05:26:43.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4824ms or 96 ticks behind
 [27Mar2025 05:26:49.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Created new objective [vida]]
 [27Mar2025 05:27:14.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Set display slot list to show objective vida]
+[27Mar2025 05:34:13.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[27Mar2025 05:34:33.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5415ms or 108 ticks behind
