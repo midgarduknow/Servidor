@@ -79,6 +79,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-27 16:36:13 +0000",
       "minecraft:cherry_grove": "2025-03-26 17:25:57 +0000",
       "minecraft:birch_forest": "2025-03-27 04:53:51 +0000",
       "minecraft:windswept_hills": "2025-03-27 03:54:09 +0000",
@@ -3539,6 +3540,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_dark_forest": "2025-03-27 16:40:57 +0000",
       "in_pyramid_nether": "2025-03-27 05:58:43 +0000"
     },
     "done": false
@@ -4002,6 +4004,60 @@
   "tombstone:adventure/use_mercy": {
     "criteria": {
       "has_magic_scroll": "2025-03-27 06:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-27 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-03-27 16:34:24 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-03-27 16:39:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-03-27 16:35:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-03-27 16:34:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-03-27 16:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-27 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-27 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-03-27 16:37:01 +0000"
     },
     "done": true
   },
