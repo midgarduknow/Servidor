@@ -81,6 +81,7 @@
     "criteria": {
       "minecraft:taiga": "2025-03-27 16:36:13 +0000",
       "minecraft:cherry_grove": "2025-03-26 17:25:57 +0000",
+      "minecraft:sunflower_plains": "2025-03-27 17:27:41 +0000",
       "minecraft:birch_forest": "2025-03-27 04:53:51 +0000",
       "minecraft:windswept_hills": "2025-03-27 03:54:09 +0000",
       "minecraft:beach": "2025-03-27 16:44:48 +0000",
@@ -89,6 +90,7 @@
       "minecraft:cold_ocean": "2025-03-27 16:45:02 +0000",
       "minecraft:forest": "2025-03-27 03:26:31 +0000",
       "minecraft:windswept_forest": "2025-03-27 04:25:43 +0000",
+      "minecraft:flower_forest": "2025-03-27 17:29:03 +0000",
       "minecraft:meadow": "2025-03-27 04:57:39 +0000",
       "minecraft:windswept_gravelly_hills": "2025-03-27 16:48:33 +0000",
       "minecraft:plains": "2025-03-27 02:50:44 +0000"
@@ -4143,6 +4145,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-27 17:34:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-27 17:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-03-27 17:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-03-27 16:59:53 +0000"
@@ -4158,6 +4178,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-03-27 16:37:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-03-27 17:32:44 +0000"
     },
     "done": true
   },
@@ -4194,6 +4220,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-27 17:33:33 +0000"
     },
     "done": true
   },

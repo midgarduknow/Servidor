@@ -5521,3 +5521,100 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Mar2025 17:19:06.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [What a Deal!]
 [27Mar2025 17:19:12.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Mar2025 17:19:12.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:24:12.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:24:12.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:26:20.689] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[27Mar2025 17:27:58.336] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=917, y=-16, z=140} at Chest with:repurposed_structures:chests/dungeons/deep
+[27Mar2025 17:27:58.919] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=930, y=-26, z=4} at Chest with:repurposed_structures:chests/dungeons/deep
+[27Mar2025 17:28:03.364] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=907, y=35, z=2}
+[27Mar2025 17:28:03.590] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=909, y=34, z=66}
+[27Mar2025 17:28:03.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=911, y=-24, z=143}
+[27Mar2025 17:28:04.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=920, y=-25, z=23}
+[27Mar2025 17:28:06.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=942, y=35, z=123}
+[27Mar2025 17:28:18.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[27Mar2025 17:28:20.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=962, y=13, z=214}
+[27Mar2025 17:28:20.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Norma'/37654, l='ServerLevel[world]', x=877.89, y=135.00, z=181.08] died, message: 'Norma was slain by Tiger'
+[27Mar2025 17:28:20.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Norma'/37654, l='ServerLevel[world]', x=877.89, y=135.00, z=181.08] died: Norma was slain by Tiger
+[27Mar2025 17:28:26.081] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokerboss at BlockPos{x=1027, y=-19, z=65} at Chest with:repurposed_structures:chests/dungeons/deep
+[27Mar2025 17:28:27.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1023, y=34, z=38}
+[27Mar2025 17:28:28.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bree'/37606, l='ServerLevel[world]', x=873.59, y=140.00, z=233.64] died, message: 'Bree was slain by Tiger'
+[27Mar2025 17:28:28.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bree'/37606, l='ServerLevel[world]', x=873.59, y=140.00, z=233.64] died: Bree was slain by Tiger
+[27Mar2025 17:28:32.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Abraham'/37639, l='ServerLevel[world]', x=912.52, y=143.00, z=240.60] died, message: 'Abraham was slain by Tiger'
+[27Mar2025 17:28:32.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Abraham'/37639, l='ServerLevel[world]', x=912.52, y=143.00, z=240.60] died: Abraham was slain by Tiger
+[27Mar2025 17:28:34.185] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1054, y=6, z=16}
+[27Mar2025 17:28:35.657] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1051, y=-25, z=89}
+[27Mar2025 17:28:35.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mckinley'/37573, l='ServerLevel[world]', x=878.18, y=139.00, z=237.53] died, message: 'Mckinley was slain by Tiger'
+[27Mar2025 17:28:35.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mckinley'/37573, l='ServerLevel[world]', x=878.18, y=139.00, z=237.53] died: Mckinley was slain by Tiger
+[27Mar2025 17:28:36.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[27Mar2025 17:28:42.423] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:madcowboss at BlockPos{x=1121, y=226, z=45} at Chest with:dungeons_arise:chests/infested_temple/infested_temple_top_treasure
+[27Mar2025 17:28:48.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1039, y=-51, z=274}
+[27Mar2025 17:28:48.783] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1045, y=25, z=280}
+[27Mar2025 17:28:53.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Haywood'/37607, l='ServerLevel[world]', x=882.16, y=140.00, z=249.39] died, message: 'Haywood was slain by Tiger'
+[27Mar2025 17:28:53.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Haywood'/37607, l='ServerLevel[world]', x=882.16, y=140.00, z=249.39] died: Haywood was slain by Tiger
+[27Mar2025 17:28:53.953] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1179, y=-38, z=228} at Chest with:repurposed_structures:chests/dungeons/deep
+[27Mar2025 17:28:54.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jenae'/37725, l='ServerLevel[world]', x=893.64, y=139.00, z=232.78] died, message: 'Jenae was slain by Tiger'
+[27Mar2025 17:28:54.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jenae'/37725, l='ServerLevel[world]', x=893.64, y=139.00, z=232.78] died: Jenae was slain by Tiger
+[27Mar2025 17:28:56.587] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=1202, y=-41, z=110} at Chest with:repurposed_structures:chests/dungeons/deep
+[27Mar2025 17:28:58.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Narcisa'/37635, l='ServerLevel[world]', x=893.24, y=139.00, z=232.51] died, message: 'Narcisa was slain by Tiger'
+[27Mar2025 17:28:58.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Narcisa'/37635, l='ServerLevel[world]', x=893.24, y=139.00, z=232.51] died: Narcisa was slain by Tiger
+[27Mar2025 17:29:07.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1185, y=-52, z=118}
+[27Mar2025 17:29:07.900] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=969, y=11, z=319}
+[27Mar2025 17:29:09.945] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1039, y=-26, z=310}
+[27Mar2025 17:29:11.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1082, y=-51, z=306}
+[27Mar2025 17:29:16.933] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1211, y=-41, z=10}
+[27Mar2025 17:29:16.942] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1201, y=32, z=161}
+[27Mar2025 17:29:16.951] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1207, y=-15, z=-58}
+[27Mar2025 17:29:16.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:29:16.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:29:19.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Annamae'/37571, l='ServerLevel[world]', x=864.18, y=138.00, z=220.30] died, message: 'Annamae was slain by Tiger'
+[27Mar2025 17:29:19.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Annamae'/37571, l='ServerLevel[world]', x=864.18, y=138.00, z=220.30] died: Annamae was slain by Tiger
+[27Mar2025 17:29:43.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cecily'/37638, l='ServerLevel[world]', x=897.01, y=140.00, z=244.71] died, message: 'Cecily was slain by Tiger'
+[27Mar2025 17:29:43.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cecily'/37638, l='ServerLevel[world]', x=897.01, y=140.00, z=244.71] died: Cecily was slain by Tiger
+[27Mar2025 17:30:04.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1241, y=9, z=-100}
+[27Mar2025 17:30:09.550] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1266, y=-23, z=12}
+[27Mar2025 17:30:10.364] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1272, y=18, z=-105}
+[27Mar2025 17:30:14.985] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=1316, y=-22, z=128} at Chest with:minecraft:chests/ruined_portal
+[27Mar2025 17:30:17.940] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=1332, y=-14, z=8} at Chest with:repurposed_structures:chests/dungeons/deep
+[27Mar2025 17:30:25.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1337, y=19, z=210}
+[27Mar2025 17:30:25.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1335, y=-39, z=252}
+[27Mar2025 17:30:30.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1248, y=15, z=-114}
+[27Mar2025 17:30:30.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1274, y=32, z=-120}
+[27Mar2025 17:30:54.949] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1257, y=-42, z=-160} at Chest with:repurposed_structures:chests/dungeons/deep
+[27Mar2025 17:31:27.295] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1218, y=14, z=-191}
+[27Mar2025 17:31:29.432] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=939, y=20, z=-168}
+[27Mar2025 17:32:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Super Creeps]
+[27Mar2025 17:33:32.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MushroomCow['Gowl the Mad'/38669, l='ServerLevel[world]', x=1094.83, y=226.00, z=62.15] died: Gowl the Mad was slain by Aleksito27 using [Killer Of Virgins]
+[27Mar2025 17:34:16.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:34:16.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:35:35.230] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1112, y=0, z=330}
+[27Mar2025 17:35:45.135] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=1098, y=-31, z=360} at Chest with:repurposed_structures:chests/dungeons/deep
+[27Mar2025 17:37:17.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb timed out
+[27Mar2025 17:37:17.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Aleksito27
+[27Mar2025 17:37:17.172] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Aleksito27
+[27Mar2025 17:37:17.172] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Aleksito27
+[27Mar2025 17:37:17.172] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Aleksito27
+[27Mar2025 17:37:17.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
+[27Mar2025 17:37:17.173] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb to disconnected: {disabled=false, disconnected=true, uuid=6d84c9fc-5f86-333c-ba8f-c79bc2da53bb, name=Aleksito27, group=null}
+[27Mar2025 17:37:17.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 17a14630-7183-39be-ad60-214f2ed89342 timed out
+[27Mar2025 17:37:17.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Manuel_Jota_23
+[27Mar2025 17:37:17.173] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Manuel_Jota_23
+[27Mar2025 17:37:17.173] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Manuel_Jota_23
+[27Mar2025 17:37:17.173] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Manuel_Jota_23
+[27Mar2025 17:37:17.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Manuel_Jota_23
+[27Mar2025 17:37:17.174] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 17a14630-7183-39be-ad60-214f2ed89342 to disconnected: {disabled=false, disconnected=true, uuid=17a14630-7183-39be-ad60-214f2ed89342, name=Manuel_Jota_23, group=null}
+[27Mar2025 17:37:17.339] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Manuel_Jota_23: {disabled=false, disconnected=true, uuid=17a14630-7183-39be-ad60-214f2ed89342, name=Manuel_Jota_23, group=null}
+[27Mar2025 17:37:17.341] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Aleksito27: {disabled=false, disconnected=true, uuid=6d84c9fc-5f86-333c-ba8f-c79bc2da53bb, name=Aleksito27, group=null}
+[27Mar2025 17:37:20.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[27Mar2025 17:37:20.393] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17a14630-7183-39be-ad60-214f2ed89342
+[27Mar2025 17:37:21.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[27Mar2025 17:37:21.381] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Aleksito27 to connected: {disabled=false, disconnected=false, uuid=6d84c9fc-5f86-333c-ba8f-c79bc2da53bb, name=Aleksito27, group=null}
+[27Mar2025 17:37:21.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
+[27Mar2025 17:37:21.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17a14630-7183-39be-ad60-214f2ed89342
+[27Mar2025 17:37:21.394] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Manuel_Jota_23 to connected: {disabled=false, disconnected=false, uuid=17a14630-7183-39be-ad60-214f2ed89342, name=Manuel_Jota_23, group=null}
+[27Mar2025 17:37:21.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342) successfully connected to voice chat
+[27Mar2025 17:37:21.532] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Aleksito27: {disabled=false, disconnected=false, uuid=6d84c9fc-5f86-333c-ba8f-c79bc2da53bb, name=Aleksito27, group=null}
+[27Mar2025 17:37:21.585] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Manuel_Jota_23: {disabled=false, disconnected=false, uuid=17a14630-7183-39be-ad60-214f2ed89342, name=Manuel_Jota_23, group=null}
+[27Mar2025 17:37:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Super Creeps]
+[27Mar2025 17:39:16.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 17:39:16.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 17:39:18.435] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.useful_backpacks.config.ForgeCommonConfig$Impl@640aa2f9 for class class info.u_team.useful_backpacks.config.CommonConfig
