@@ -405,3 +405,27 @@
 [27Mar2025 06:12:36.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14722, l='ServerLevel[world]', x=52.73, y=168.62, z=136.43] died: Restless Spirit starved to death
 [27Mar2025 06:14:12.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/15268, l='ServerLevel[world]', x=67.80, y=131.70, z=70.77] died: Restless Spirit starved to death
 [27Mar2025 06:14:35.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=80, z=32} BlockPos{x=43, y=80, z=33}
+[27Mar2025 06:15:35.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [A Seedy Place]
+[27Mar2025 06:17:39.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [A self-respecting Soul]
+[27Mar2025 06:19:42.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midgard2552 lost connection: Disconnected
+[27Mar2025 06:19:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 left the game
+[27Mar2025 06:19:42.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midgard2552
+[27Mar2025 06:19:51.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 lost connection: Disconnected
+[27Mar2025 06:19:51.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 left the game
+[27Mar2025 06:19:51.747] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aleksito27
+[27Mar2025 06:19:56.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Mar2025 06:19:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Mar2025 06:19:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Mar2025 06:19:57.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Mar2025 06:19:58.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Mar2025 06:19:58.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Mar2025 06:19:58.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[27Mar2025 06:19:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Mar2025 06:19:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Mar2025 06:19:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Mar2025 06:19:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[27Mar2025 06:19:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Mar2025 06:19:58.369] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Mar2025 06:19:58.380] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27Mar2025 06:19:58.386] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[27Mar2025 06:19:58.394] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
