@@ -181,6 +181,8 @@
       "minecraft:evoker": "2025-03-27 03:47:20 +0000",
       "minecraft:zombified_piglin": "2025-03-27 06:14:52 +0000",
       "minecraft:witch": "2025-03-27 03:56:15 +0000",
+      "minecraft:wither_skeleton": "2025-03-27 17:41:49 +0000",
+      "minecraft:cave_spider": "2025-03-27 17:45:47 +0000",
       "minecraft:piglin": "2025-03-27 06:04:09 +0000",
       "minecraft:enderman": "2025-03-27 04:53:24 +0000",
       "minecraft:vex": "2025-03-27 03:47:35 +0000",
@@ -4013,6 +4015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-27 17:45:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2025-03-27 16:37:01 +0000"
@@ -4022,6 +4030,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-27 16:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-27 17:41:27 +0000"
     },
     "done": true
   },
@@ -4115,6 +4129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-27 17:47:49 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/deepsight": {
     "criteria": {
       "all_effects": "2025-03-27 16:35:11 +0000"
@@ -4127,6 +4147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-27 17:45:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-03-27 16:34:24 +0000"
@@ -4136,6 +4162,12 @@
   "tombstone:adventure/use_feather_fall": {
     "criteria": {
       "has_magic_scroll": "2025-03-27 16:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-27 17:45:21 +0000"
     },
     "done": true
   },
@@ -4175,6 +4207,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-03-27 17:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-27 17:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-03-27 16:37:01 +0000"
@@ -4184,6 +4228,12 @@
   "dungeons_arise:find_infested_temple": {
     "criteria": {
       "location0": "2025-03-27 17:32:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-03-27 17:49:05 +0000"
     },
     "done": true
   },
