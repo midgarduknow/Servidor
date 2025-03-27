@@ -5998,3 +5998,65 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Mar2025 17:58:13.435] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
 [27Mar2025 17:59:16.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Mar2025 17:59:16.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 18:00:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
+[27Mar2025 18:00:47.576] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.00.47.dat
+[27Mar2025 18:00:47.577] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:1097, y:162, z:63, dim:minecraft:overworld]
+[27Mar2025 18:00:47.581] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:00:53.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
+[27Mar2025 18:00:53.676] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:01:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
+[27Mar2025 18:01:40.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
+[27Mar2025 18:01:40.828] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.01.40.dat
+[27Mar2025 18:01:40.829] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:1115, y:163, z:41, dim:minecraft:overworld]
+[27Mar2025 18:01:40.843] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:01:46.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53248, l='ServerLevel[world]', x=1106.02, y=166.01, z=41.37] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 18:01:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
+[27Mar2025 18:01:47.828] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:01:48.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53249, l='ServerLevel[world]', x=1103.87, y=166.01, z=42.22] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 18:01:50.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54551, l='ServerLevel[world]', x=1104.05, y=166.01, z=38.13] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 18:01:52.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was shot by Dinnerbone
+[27Mar2025 18:01:52.686] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.01.52.dat
+[27Mar2025 18:01:52.687] [Server thread/DEBUG] [tombstone/]: A new grave of the player Manuel_Jota_23 was created at position [x:1090, y:187, z:42, dim:minecraft:overworld]
+[27Mar2025 18:01:52.691] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:02:06.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
+[27Mar2025 18:02:19.125] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54490, l='ServerLevel[world]', x=1103.88, y=166.01, z=37.67] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 18:03:03.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54972, l='ServerLevel[world]', x=1105.40, y=166.01, z=34.34] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 18:03:10.851] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54491, l='ServerLevel[world]', x=1106.35, y=166.01, z=34.92] died: Dinnerbone was slain by Midgard2552
+[27Mar2025 18:04:16.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 18:04:16.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 18:04:18.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53937, l='ServerLevel[world]', x=1105.20, y=158.01, z=56.58] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 18:04:22.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/56266, l='ServerLevel[world]', x=1102.81, y=158.01, z=58.75] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 18:04:28.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/56267, l='ServerLevel[world]', x=1103.38, y=158.01, z=63.65] died: Dinnerbone was shot by Dinnerbone
+[27Mar2025 18:05:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Spider
+[27Mar2025 18:05:13.422] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.05.13.dat
+[27Mar2025 18:05:13.423] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:1085, y:154, z:42, dim:minecraft:overworld]
+[27Mar2025 18:05:13.430] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:06:21.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Bone Crusher]
+[27Mar2025 18:06:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Manuel_Jota_23 to Aleksito27]
+[27Mar2025 18:07:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Cover Me with Diamonds]
+[27Mar2025 18:07:49.709] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1243, y=-39, z=-207}
+[27Mar2025 18:08:42.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Stone Age]
+[27Mar2025 18:09:16.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 18:09:16.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 18:09:53.818] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1209, y=-42, z=-222}
+[27Mar2025 18:12:37.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [A Metropolis of Restless Souls]
+[27Mar2025 18:12:40.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [A Metropolis of Restless Souls]
+[27Mar2025 18:12:44.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Sneak 100]
+[27Mar2025 18:13:07.909] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1225, y=10, z=-240}
+[27Mar2025 18:13:22.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [A Metropolis of Restless Souls]
+[27Mar2025 18:13:31.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Sneak 100]
+[27Mar2025 18:14:16.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 18:14:16.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 18:17:25.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
+[27Mar2025 18:17:25.319] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:1103, y:-51, z:5, dim:minecraft:overworld]
+[27Mar2025 18:17:25.325] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:18:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
+[27Mar2025 18:18:16.767] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:1114, y:-51, z:5, dim:minecraft:overworld]
+[27Mar2025 18:18:16.776] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[27Mar2025 18:19:10.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
+[27Mar2025 18:19:10.621] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.19.10.dat
+[27Mar2025 18:19:10.622] [Server thread/DEBUG] [tombstone/]: A new grave of the player Manuel_Jota_23 was created at position [x:1107, y:-51, z:32, dim:minecraft:overworld]
+[27Mar2025 18:19:10.631] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[27Mar2025 18:19:16.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 18:19:16.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 18:19:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Discreet Search]
