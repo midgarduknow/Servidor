@@ -5728,3 +5728,168 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Mar2025 05:01:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Incendium]
 [28Mar2025 05:01:26.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/29686, l='ServerLevel[world]', x=25.60, y=130.05, z=31.21] died: Restless Spirit starved to death
 [28Mar2025 05:01:27.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29700, l='ServerLevel[world]', x=72.52, y=-20.00, z=93.74] died: Toxic Slime was killed
+[28Mar2025 05:02:22.139] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/30085, l='ServerLevel[world]', x=7.08, y=106.07, z=101.44] died: Restless Spirit starved to death
+[28Mar2025 05:02:40.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [The Soul Forge]
+[28Mar2025 05:02:41.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/30168, l='ServerLevel[world]', x=180.33, y=123.17, z=143.61] died: Restless Spirit starved to death
+[28Mar2025 05:02:44.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [The Soul Forge]
+[28Mar2025 05:02:53.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:02:53.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:04:21.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Netherite Monstrosity
+[28Mar2025 05:04:21.936] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:169, y:44, z:105, dim:minecraft:the_nether]
+[28Mar2025 05:04:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman was slain by Netherite Monstrosity
+[28Mar2025 05:04:21.938] [Server thread/DEBUG] [tombstone/]: A new grave of the player S3bastian_Gaman was created at position [x:169, y:44, z:106, dim:minecraft:the_nether]
+[28Mar2025 05:04:21.956] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:04:21.956] [Server thread/INFO] [tombstone/]: The player S3bastian_Gaman has successfully been saved
+[28Mar2025 05:04:27.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/31086, l='ServerLevel[world]', x=140.04, y=130.50, z=183.84] died: Restless Spirit starved to death
+[28Mar2025 05:04:38.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Netherite Monstrosity
+[28Mar2025 05:04:38.140] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:172, y:43, z:114, dim:minecraft:the_nether]
+[28Mar2025 05:04:38.154] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 05:04:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has reached the goal [A Fast Comeback]
+[28Mar2025 05:04:53.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-273, y=-1, z=304}
+[28Mar2025 05:04:58.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Netherite Monstrosity
+[28Mar2025 05:04:58.151] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_28.03.2025-05.04.58.dat
+[28Mar2025 05:04:58.152] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:164, y:44, z:101, dim:minecraft:the_nether]
+[28Mar2025 05:04:58.165] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 05:05:08.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Netherite Monstrosity
+[28Mar2025 05:05:08.944] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:165, y:45, z:104, dim:minecraft:the_nether]
+[28Mar2025 05:05:08.957] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:05:25.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Netherite Monstrosity
+[28Mar2025 05:05:25.046] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_28.03.2025-05.05.25.dat
+[28Mar2025 05:05:25.046] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:158, y:43, z:101, dim:minecraft:the_nether]
+[28Mar2025 05:05:25.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Netherite Monstrosity
+[28Mar2025 05:05:25.048] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:161, y:36, z:102, dim:minecraft:the_nether]
+[28Mar2025 05:05:25.065] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 05:05:25.066] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:05:50.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Netherite Monstrosity
+[28Mar2025 05:05:50.637] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:171, y:42, z:104, dim:minecraft:the_nether]
+[28Mar2025 05:05:50.651] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:05:51.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was burnt to a crisp whilst fighting Netherite Monstrosity
+[28Mar2025 05:05:51.548] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_28.03.2025-05.05.51.dat
+[28Mar2025 05:05:51.548] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:173, y:43, z:107, dim:minecraft:the_nether]
+[28Mar2025 05:05:51.550] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 05:05:52.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-82, y=118, z=117} BlockPos{x=8, y=127, z=7}
+[28Mar2025 05:06:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Netherite Monstrosity
+[28Mar2025 05:06:04.451] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:171, y:42, z:105, dim:minecraft:the_nether]
+[28Mar2025 05:06:04.463] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:06:07.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Netherite Monstrosity
+[28Mar2025 05:06:07.900] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 05:06:20.343] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=392, y=69, z=13} at Chest with:minecraft:chests/bastion_other
+[28Mar2025 05:06:27.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Netherite Monstrosity
+[28Mar2025 05:06:27.269] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 05:06:34.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 tried to swim in lava
+[28Mar2025 05:06:34.209] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:06:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> mis cosaaass a
+[28Mar2025 05:06:56.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman was slain by Grizzly Bear
+[28Mar2025 05:06:56.232] [Server thread/DEBUG] [tombstone/]: A new grave of the player S3bastian_Gaman was created at position [x:24, y:121, z:188, dim:minecraft:overworld]
+[28Mar2025 05:06:56.258] [Server thread/INFO] [tombstone/]: The player S3bastian_Gaman has successfully been saved
+[28Mar2025 05:06:58.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Netherite Monstrosity
+[28Mar2025 05:06:58.142] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:170, y:43, z:118, dim:minecraft:the_nether]
+[28Mar2025 05:06:58.164] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:07:12.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/38675, l='ServerLevel[world]', x=79.52, y=128.90, z=92.57] died: Restless Spirit starved to death
+[28Mar2025 05:07:24.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Netherite Monstrosity
+[28Mar2025 05:07:24.430] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_28.03.2025-05.07.24.dat
+[28Mar2025 05:07:24.430] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:148, y:36, z:85, dim:minecraft:the_nether]
+[28Mar2025 05:07:24.433] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 05:07:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [The broken Nether's warmachine]
+[28Mar2025 05:07:53.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:07:53.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:09:15.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman was slain by Spider
+[28Mar2025 05:09:15.235] [Server thread/DEBUG] [tombstone/]: A new grave of the player S3bastian_Gaman was created at position [x:190, y:91, z:146, dim:minecraft:overworld]
+[28Mar2025 05:09:15.260] [Server thread/INFO] [tombstone/]: The player S3bastian_Gaman has successfully been saved
+[28Mar2025 05:09:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 burned to death
+[28Mar2025 05:09:41.055] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_28.03.2025-05.09.41.dat
+[28Mar2025 05:09:41.055] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:167, y:44, z:113, dim:minecraft:the_nether]
+[28Mar2025 05:09:41.056] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 05:09:54.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Sweet Dreams]
+[28Mar2025 05:10:52.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> un escombro
+[28Mar2025 05:11:13.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Hidden in the Depths]
+[28Mar2025 05:12:23.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Cover Me with Diamonds]
+[28Mar2025 05:12:50.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/42337, l='ServerLevel[world]', x=91.66, y=121.30, z=87.52] died: Restless Spirit starved to death
+[28Mar2025 05:12:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> el escombro
+[28Mar2025 05:12:53.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:12:53.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:13:54.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/42749, l='ServerLevel[world]', x=72.70, y=133.18, z=91.79] died: Restless Spirit starved to death
+[28Mar2025 05:14:09.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/42920, l='ServerLevel[world]', x=12.69, y=124.64, z=142.84] died: Restless Spirit starved to death
+[28Mar2025 05:14:10.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/42927, l='ServerLevel[world]', x=-6.33, y=125.82, z=52.37] died: Restless Spirit starved to death
+[28Mar2025 05:14:30.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/43071, l='ServerLevel[world]', x=28.03, y=134.44, z=99.47] died: Restless Spirit starved to death
+[28Mar2025 05:15:29.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ya vamonos
+[28Mar2025 05:15:29.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Take Aim]
+[28Mar2025 05:15:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> ?
+[28Mar2025 05:16:23.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> pense que era todo
+[28Mar2025 05:16:29.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Getting an Upgrade]
+[28Mar2025 05:16:42.049] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44364, l='ServerLevel[world]', x=57.21, y=134.52, z=112.39] died: Restless Spirit starved to death
+[28Mar2025 05:16:42.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44366, l='ServerLevel[world]', x=75.22, y=126.49, z=116.73] died: Restless Spirit starved to death
+[28Mar2025 05:16:49.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ahora es eclavo
+[28Mar2025 05:16:56.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44475, l='ServerLevel[world]', x=56.19, y=124.94, z=111.34] died: Restless Spirit starved to death
+[28Mar2025 05:17:09.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44540, l='ServerLevel[world]', x=67.09, y=127.30, z=85.14] died: Restless Spirit starved to death
+[28Mar2025 05:17:09.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44542, l='ServerLevel[world]', x=69.54, y=126.11, z=96.64] died: Restless Spirit starved to death
+[28Mar2025 05:17:12.747] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44567, l='ServerLevel[world]', x=166.95, y=173.57, z=151.82] died: Restless Spirit starved to death
+[28Mar2025 05:17:27.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Gave 1 [Backpack Tank] to MICTLAN235]
+[28Mar2025 05:17:28.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44673, l='ServerLevel[world]', x=179.40, y=129.55, z=178.12] died: Restless Spirit starved to death
+[28Mar2025 05:17:28.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44675, l='ServerLevel[world]', x=174.70, y=131.85, z=177.79] died: Restless Spirit starved to death
+[28Mar2025 05:17:35.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/44736, l='ServerLevel[world]', x=175.73, y=159.55, z=148.72] died: Restless Spirit starved to death
+[28Mar2025 05:17:40.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> no tienen soga?
+[28Mar2025 05:17:53.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:17:53.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:17:57.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> para llevarlo
+[28Mar2025 05:18:22.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> a
+[28Mar2025 05:19:28.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/45285, l='ServerLevel[world]', x=178.41, y=140.36, z=201.80] died: Restless Spirit starved to death
+[28Mar2025 05:19:59.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/45473, l='ServerLevel[world]', x=191.20, y=162.27, z=182.15] died: Restless Spirit starved to death
+[28Mar2025 05:20:39.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/45843, l='ServerLevel[world]', x=145.22, y=124.55, z=-44.42] died: Restless Spirit starved to death
+[28Mar2025 05:20:46.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/45945, l='ServerLevel[world]', x=94.38, y=128.16, z=21.56] died: Restless Spirit starved to death
+[28Mar2025 05:21:27.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was burnt to a crisp whilst fighting Ghast
+[28Mar2025 05:21:27.355] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:101, y:45, z:51, dim:minecraft:the_nether]
+[28Mar2025 05:21:27.357] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:22:02.804] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/46650, l='ServerLevel[world]', x=93.38, y=112.49, z=-51.96] died: Restless Spirit starved to death
+[28Mar2025 05:22:53.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:22:53.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:23:05.865] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/47286, l='ServerLevel[world]', x=44.07, y=131.39, z=128.49] died: Restless Spirit starved to death
+[28Mar2025 05:23:32.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/47713, l='ServerLevel[world]', x=99.27, y=118.72, z=-11.32] died: Restless Spirit starved to death
+[28Mar2025 05:24:34.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/48485, l='ServerLevel[world]', x=34.52, y=124.14, z=109.28] died: Restless Spirit starved to death
+[28Mar2025 05:24:41.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ya esta marcado
+[28Mar2025 05:24:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> ya queda
+[28Mar2025 05:25:54.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Best Friends Forever]
+[28Mar2025 05:27:31.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> de que material hago la base? cemento?
+[28Mar2025 05:27:46.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Voluntary Exile]
+[28Mar2025 05:27:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> mid
+[28Mar2025 05:27:53.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:27:53.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:29:27.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> tremenda rferencia cuando rick remplaza a morty con cuervos
+[28Mar2025 05:29:37.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> xddd
+[28Mar2025 05:30:50.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has completed the challenge [It Spreads]
+[28Mar2025 05:32:53.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:32:53.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:37:47.134] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1381, y=24, z=-189}
+[28Mar2025 05:37:53.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:37:53.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:38:11.653] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1506, y=86, z=142} at Chest with:minecraft:chests/simple_dungeon
+[28Mar2025 05:38:12.237] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1522, y=-53, z=-164} at Chest with:repurposed_structures:chests/dungeons/deep
+[28Mar2025 05:38:20.671] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokerboss at BlockPos{x=566, y=-25, z=-153} at Chest with:repurposed_structures:chests/dungeons/deep
+[28Mar2025 05:38:20.784] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=557, y=-32, z=-186}
+[28Mar2025 05:38:26.033] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1522, y=-48, z=182}
+[28Mar2025 05:38:29.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1544, y=-4, z=206}
+[28Mar2025 05:38:31.684] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1574, y=-29, z=177} at Chest with:repurposed_structures:chests/dungeons/deep
+[28Mar2025 05:38:31.852] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=1568, y=46, z=-140} at Chest with:minecraft:chests/simple_dungeon
+[28Mar2025 05:39:01.331] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1573, y=33, z=31}
+[28Mar2025 05:39:01.786] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1576, y=-43, z=203}
+[28Mar2025 05:39:12.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> SI VAN A Cuevas traigan carbon que necesitamos
+[28Mar2025 05:39:15.730] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1624, y=-37, z=-56}
+[28Mar2025 05:39:20.850] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1665, y=-53, z=-100} at Chest with:repurposed_structures:chests/dungeons/deep
+[28Mar2025 05:39:20.896] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1624, y=-8, z=-126}
+[28Mar2025 05:39:21.138] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1651, y=-50, z=3}
+[28Mar2025 05:39:23.252] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1679, y=-46, z=61}
+[28Mar2025 05:39:29.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ten
+[28Mar2025 05:39:32.192] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1615, y=-8, z=-129}
+[28Mar2025 05:39:36.588] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=1695, y=-43, z=60} at Chest with:repurposed_structures:chests/dungeons/deep
+[28Mar2025 05:39:42.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> ponlo en los cofres tmb pa
+[28Mar2025 05:39:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> ty
+[28Mar2025 05:39:50.650] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1710, y=-27, z=-14}
+[28Mar2025 05:39:58.718] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokerboss at BlockPos{x=1763, y=-16, z=134} at Chest with:repurposed_structures:chests/dungeons/deep
+[28Mar2025 05:40:00.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> encontre una cueva muy grande
+[28Mar2025 05:40:02.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1773, y=-42, z=-7}
+[28Mar2025 05:40:11.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1560, y=-16, z=-191}
+[28Mar2025 05:40:12.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> vamos peroe sperame
+[28Mar2025 05:40:16.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1713, y=-44, z=-203}
+[28Mar2025 05:40:31.212] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1834, y=-52, z=-229} at Chest with:repurposed_structures:chests/dungeons/deep
+[28Mar2025 05:41:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Aleksito27 to Midgard2552]
+[28Mar2025 05:41:37.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
