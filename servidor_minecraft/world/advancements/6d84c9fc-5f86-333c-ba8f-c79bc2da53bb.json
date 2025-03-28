@@ -176,6 +176,7 @@
       "minecraft:pillager": "2025-03-27 02:51:29 +0000",
       "minecraft:blaze": "2025-03-27 06:06:24 +0000",
       "minecraft:skeleton": "2025-03-27 03:14:51 +0000",
+      "minecraft:ghast": "2025-03-28 03:02:10 +0000",
       "minecraft:vindicator": "2025-03-27 03:00:14 +0000",
       "minecraft:spider": "2025-03-27 04:23:19 +0000",
       "minecraft:piglin_brute": "2025-03-27 06:04:17 +0000",
@@ -4650,12 +4651,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-03-28 03:00:18 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-03-28 02:51:23 +0000"
@@ -4729,6 +4724,12 @@
     },
     "done": false
   },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-28 03:01:59 +0000"
+    },
+    "done": true
+  },
   "incendium:volcanic_deltas/root": {
     "criteria": {
       "incendium:volcanic_deltas": "2025-03-28 02:58:07 +0000"
@@ -4750,6 +4751,18 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-03-28 02:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-28 03:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-28 03:01:59 +0000"
     },
     "done": true
   },
