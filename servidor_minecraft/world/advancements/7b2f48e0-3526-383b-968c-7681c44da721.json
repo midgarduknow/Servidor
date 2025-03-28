@@ -83,6 +83,7 @@
       "minecraft:cherry_grove": "2025-03-26 16:39:27 +0000",
       "minecraft:sunflower_plains": "2025-03-26 17:05:40 +0000",
       "minecraft:windswept_hills": "2025-03-27 04:04:52 +0000",
+      "minecraft:beach": "2025-03-28 04:45:32 +0000",
       "minecraft:river": "2025-03-26 17:02:19 +0000",
       "minecraft:dripstone_caves": "2025-03-27 03:41:03 +0000",
       "minecraft:forest": "2025-03-27 03:57:29 +0000",
@@ -4208,6 +4209,36 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-03-27 18:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-03-28 04:24:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-03-28 04:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-03-28 04:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-28 04:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-28 04:45:44 +0000"
     },
     "done": true
   },

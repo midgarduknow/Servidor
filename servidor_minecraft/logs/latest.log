@@ -339,3 +339,146 @@
 [28Mar2025 04:12:58.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5346, l='ServerLevel[world]', x=83.85, y=124.91, z=3.80] died: Restless Spirit starved to death
 [28Mar2025 04:13:05.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5390, l='ServerLevel[world]', x=68.84, y=131.00, z=-9.34] died: Restless Spirit starved to death
 [28Mar2025 04:13:06.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5437, l='ServerLevel[world]', x=46.21, y=126.81, z=118.86] died: Restless Spirit starved to death
+[28Mar2025 04:29:17.210] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MICTLAN235[/127.206.87.41:56389] logged in with entity id 10702 at (10.5, 124.0, -5.5)
+[28Mar2025 04:29:17.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 joined the game
+[28Mar2025 04:29:17.271] [Server thread/INFO] [Jade/]: Syncing config to MICTLAN235 (f1f37083-108d-3202-84e0-413211733239)
+[28Mar2025 04:29:17.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has reached the goal [Easter]
+[28Mar2025 04:29:18.039] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MICTLAN235 (18)
+[28Mar2025 04:29:18.040] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MICTLAN235
+[28Mar2025 04:29:21.116] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f1f37083-108d-3202-84e0-413211733239
+[28Mar2025 04:29:22.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f1f37083-108d-3202-84e0-413211733239
+[28Mar2025 04:29:22.116] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player MICTLAN235 (f1f37083-108d-3202-84e0-413211733239) successfully connected to voice chat
+[28Mar2025 04:29:24.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Alex's Mobs]
+[28Mar2025 04:31:17.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Zombie
+[28Mar2025 04:31:17.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Your First Grave]
+[28Mar2025 04:31:17.330] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 04:31:18.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [The Most Useful Key]
+[28Mar2025 04:31:33.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has reached the goal [Here They Come]
+[28Mar2025 04:31:40.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Knowledge of Death]
+[28Mar2025 04:31:40.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Easter Egg Searcher]
+[28Mar2025 04:32:01.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [People Are Strange]
+[28Mar2025 04:33:54.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Monster Hunter]
+[28Mar2025 04:33:54.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [A Strange Grave Dust]
+[28Mar2025 04:34:04.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Zombie
+[28Mar2025 04:34:04.762] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 04:34:22.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has reached the goal [A Fast Comeback]
+[28Mar2025 04:34:53.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has reached the goal [Chain Death]
+[28Mar2025 04:34:53.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Vindicator
+[28Mar2025 04:34:53.455] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 04:35:08.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Vindicator
+[28Mar2025 04:35:08.205] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 04:36:32.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Stone Age]
+[28Mar2025 04:36:39.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Getting an Upgrade]
+[28Mar2025 04:37:40.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Home Sweet Home]
+[28Mar2025 04:37:53.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midgard2552 lost connection: Disconnected
+[28Mar2025 04:37:53.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 left the game
+[28Mar2025 04:37:53.468] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midgard2552
+[28Mar2025 04:38:56.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midgard2552[/127.53.27.81:34117] logged in with entity id 16576 at (258.82947285728346, 66.875, 142.4421002371577)
+[28Mar2025 04:38:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 joined the game
+[28Mar2025 04:38:56.847] [Server thread/INFO] [Jade/]: Syncing config to Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721)
+[28Mar2025 04:38:57.075] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midgard2552 (18)
+[28Mar2025 04:38:57.076] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midgard2552
+[28Mar2025 04:38:59.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b2f48e0-3526-383b-968c-7681c44da721
+[28Mar2025 04:39:00.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b2f48e0-3526-383b-968c-7681c44da721
+[28Mar2025 04:39:00.268] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721) successfully connected to voice chat
+[28Mar2025 04:39:51.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-270, y=-37, z=203}
+[28Mar2025 04:40:12.936] [ForkJoinPool.commonPool-worker-8/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[28Mar2025 04:40:12.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: S3bastian_Gaman[/127.243.137.83:47535] logged in with entity id 17864 at (-3.5, 135.0, 7.5)
+[28Mar2025 04:40:12.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman joined the game
+[28Mar2025 04:40:13.051] [Server thread/INFO] [Jade/]: Syncing config to S3bastian_Gaman (59422a1e-523a-3f5e-9b77-0d5e751e68db)
+[28Mar2025 04:40:13.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has reached the goal [Easter]
+[28Mar2025 04:40:14.193] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of S3bastian_Gaman (18)
+[28Mar2025 04:40:14.193] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to S3bastian_Gaman
+[28Mar2025 04:40:18.010] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 59422a1e-523a-3f5e-9b77-0d5e751e68db
+[28Mar2025 04:40:19.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 59422a1e-523a-3f5e-9b77-0d5e751e68db
+[28Mar2025 04:40:19.012] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player S3bastian_Gaman (59422a1e-523a-3f5e-9b77-0d5e751e68db) successfully connected to voice chat
+[28Mar2025 04:40:26.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Alex's Mobs]
+[28Mar2025 04:40:28.738] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-239, y=-40, z=-257}
+[28Mar2025 04:40:55.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=73, z=-109} BlockPos{x=-3, y=71, z=-111}
+[28Mar2025 04:41:10.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=73, z=-72} BlockPos{x=32, y=71, z=-71}
+[28Mar2025 04:41:10.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=31, y=73, z=-72} BlockPos{x=32, y=71, z=-71}
+[28Mar2025 04:41:12.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=39, y=73, z=-68} BlockPos{x=40, y=71, z=-67}
+[28Mar2025 04:42:03.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=124, z=6}
+[28Mar2025 04:42:03.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=123, z=7}
+[28Mar2025 04:42:07.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=123, z=6}
+[28Mar2025 04:42:07.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=124, z=6}
+[28Mar2025 04:42:11.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=124, z=6}
+[28Mar2025 04:42:20.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=9}
+[28Mar2025 04:42:20.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=9}
+[28Mar2025 04:42:21.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=8}
+[28Mar2025 04:42:21.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=8}
+[28Mar2025 04:42:21.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=8}
+[28Mar2025 04:42:22.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=122, z=8}
+[28Mar2025 04:42:24.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=8}
+[28Mar2025 04:42:25.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=8}
+[28Mar2025 04:42:27.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=9}
+[28Mar2025 04:42:27.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=9}
+[28Mar2025 04:42:27.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=9}
+[28Mar2025 04:42:30.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=8}
+[28Mar2025 04:42:30.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=8}
+[28Mar2025 04:42:31.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=123, z=8}
+[28Mar2025 04:43:33.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> LAGO
+[28Mar2025 04:44:22.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [People Are Strange]
+[28Mar2025 04:45:32.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
+[28Mar2025 04:45:37.234] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-186, y=-54, z=299}
+[28Mar2025 04:45:52.486] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-198, y=-29, z=288}
+[28Mar2025 04:46:53.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman was slain by Tiger
+[28Mar2025 04:46:53.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Your First Grave]
+[28Mar2025 04:46:53.752] [Server thread/INFO] [tombstone/]: The player S3bastian_Gaman has successfully been saved
+[28Mar2025 04:47:00.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [The Most Useful Key]
+[28Mar2025 04:47:09.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=129, z=10}
+[28Mar2025 04:47:14.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=129, z=10}
+[28Mar2025 04:47:18.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=129, z=12}
+[28Mar2025 04:47:27.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Sweet Dreams]
+[28Mar2025 04:47:29.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=125, z=1}
+[28Mar2025 04:47:30.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=125, z=2}
+[28Mar2025 04:47:30.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=125, z=3}
+[28Mar2025 04:47:30.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=125, z=2}
+[28Mar2025 04:47:31.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=125, z=2}
+[28Mar2025 04:47:31.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=125, z=2}
+[28Mar2025 04:47:54.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has reached the goal [Here They Come]
+[28Mar2025 04:48:22.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=128, z=17} BlockPos{x=8, y=129, z=16}
+[28Mar2025 04:48:23.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=128, z=17} BlockPos{x=8, y=129, z=16}
+[28Mar2025 04:48:34.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=128, z=17} BlockPos{x=8, y=129, z=10}
+[28Mar2025 04:48:36.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4, y=128, z=17} BlockPos{x=8, y=129, z=10}
+[28Mar2025 04:49:58.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Ambush]
+[28Mar2025 04:50:02.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Monster Hunter]
+[28Mar2025 04:50:02.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Knowledge of Death]
+[28Mar2025 04:50:02.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [A Strange Grave Dust]
+[28Mar2025 04:50:06.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Zombie
+[28Mar2025 04:50:06.764] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 04:50:24.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> toma
+[28Mar2025 04:50:32.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=128, z=17} BlockPos{x=8, y=129, z=12}
+[28Mar2025 04:50:33.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=128, z=17} BlockPos{x=8, y=129, z=12}
+[28Mar2025 04:50:59.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman was shot by Skeleton
+[28Mar2025 04:50:59.455] [Server thread/INFO] [tombstone/]: The player S3bastian_Gaman has successfully been saved
+[28Mar2025 04:51:01.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Cover Me with Diamonds]
+[28Mar2025 04:51:07.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> XD
+[28Mar2025 04:51:15.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> hay de sobra
+[28Mar2025 04:51:15.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> xd
+[28Mar2025 04:52:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <S3bastian_Gaman> [x:217, y:68, z:137, dim:minecraft:overworld]go
+[28Mar2025 04:53:00.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to S3bastian_Gaman]
+[28Mar2025 04:55:11.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Isn't It Iron Pick]
+[28Mar2025 04:55:14.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Suit Up]
+[28Mar2025 04:55:49.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> juan ven ponte armaduras
+[28Mar2025 04:55:53.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> vamos por algo chido
+[28Mar2025 04:56:01.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> vamos por laura a 5km
+[28Mar2025 04:56:05.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> pero ya tengo la pechera
+[28Mar2025 04:56:13.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> veni hay mas
+[28Mar2025 04:56:32.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> entonces si vamos con laura haya vpoy
+[28Mar2025 04:58:08.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> a detonarnos a laura a 5 km
+[28Mar2025 04:59:06.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Stone Age]
+[28Mar2025 04:59:18.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> juan ven
+[28Mar2025 04:59:22.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> ten tu stack de papa
+[28Mar2025 04:59:24.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> para ir
+[28Mar2025 04:59:31.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> voy
+[28Mar2025 04:59:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ya llegue
+[28Mar2025 05:00:17.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> nos vamooos
+[28Mar2025 05:00:33.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> ven oe
+[28Mar2025 05:00:55.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> vamonos
+[28Mar2025 05:01:10.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [We Need to Go Deeper]
+[28Mar2025 05:01:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Incendium]
+[28Mar2025 05:01:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [We Need to Go Deeper]
+[28Mar2025 05:01:11.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Incendium]
+[28Mar2025 05:01:26.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/29686, l='ServerLevel[world]', x=25.60, y=130.05, z=31.21] died: Restless Spirit starved to death
+[28Mar2025 05:01:27.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/29700, l='ServerLevel[world]', x=72.52, y=-20.00, z=93.74] died: Toxic Slime was killed
