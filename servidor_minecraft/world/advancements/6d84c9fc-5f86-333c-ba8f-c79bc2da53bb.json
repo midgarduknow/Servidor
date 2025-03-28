@@ -4973,6 +4973,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-28 05:44:47 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:piglin_camp": "2025-03-28 05:01:46 +0000"
@@ -5000,6 +5006,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-03-28 05:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-28 05:44:47 +0000"
     },
     "done": true
   },
