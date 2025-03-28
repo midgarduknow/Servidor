@@ -4920,3 +4920,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Mar2025 04:09:51.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6122ms or 122 ticks behind
 [28Mar2025 04:10:21.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=66, z=231} BlockPos{x=44, y=66, z=230}
 [28Mar2025 04:10:44.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/4429, l='ServerLevel[world]', x=124.37, y=146.56, z=198.35] died: Restless Spirit starved to death
+[28Mar2025 04:12:11.051] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/4966, l='ServerLevel[world]', x=108.28, y=134.85, z=95.64] died: Restless Spirit starved to death
+[28Mar2025 04:12:35.997] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[28Mar2025 04:12:53.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 04:12:53.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 04:12:58.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5346, l='ServerLevel[world]', x=83.85, y=124.91, z=3.80] died: Restless Spirit starved to death
+[28Mar2025 04:13:05.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5390, l='ServerLevel[world]', x=68.84, y=131.00, z=-9.34] died: Restless Spirit starved to death
+[28Mar2025 04:13:06.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/5437, l='ServerLevel[world]', x=46.21, y=126.81, z=118.86] died: Restless Spirit starved to death
+[28Mar2025 04:17:53.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 04:17:53.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
