@@ -178,6 +178,7 @@
       "minecraft:skeleton": "2025-03-27 03:14:51 +0000",
       "minecraft:ghast": "2025-03-28 03:02:10 +0000",
       "minecraft:vindicator": "2025-03-27 03:00:14 +0000",
+      "minecraft:magma_cube": "2025-03-28 03:20:00 +0000",
       "minecraft:spider": "2025-03-27 04:23:19 +0000",
       "minecraft:piglin_brute": "2025-03-27 06:04:17 +0000",
       "minecraft:creeper": "2025-03-27 02:51:21 +0000",
@@ -4651,9 +4652,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-28 03:16:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-03-28 02:51:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-28 03:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-28 03:16:44 +0000"
     },
     "done": true
   },
@@ -4701,14 +4720,51 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-03-28 03:11:52 +0000",
       "incendium:volcanic_deltas": "2025-03-28 02:58:07 +0000",
       "incendium:toxic_heap": "2025-03-28 02:55:10 +0000"
     },
     "done": false
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-03-28 03:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-03-28 02:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-28 03:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-28 03:20:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-03-28 03:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-28 03:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-03-28 03:16:28 +0000"
     },
     "done": true
   },
@@ -4754,9 +4810,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-28 03:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-03-28 03:01:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-03-28 03:11:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-03-28 03:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-28 03:13:43 +0000"
     },
     "done": true
   },
