@@ -1,22 +1,22 @@
-[27Mar2025 16:18:21.079] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[27Mar2025 16:18:21.083] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[27Mar2025 16:18:22.651] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[27Mar2025 16:18:22.713] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[27Mar2025 16:18:23.124] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 16:18:23.127] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 16:18:23.128] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 16:18:23.130] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 16:18:23.387] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[27Mar2025 16:18:23.389] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
-[27Mar2025 16:18:25.870] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[27Mar2025 16:18:26.076] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[27Mar2025 16:18:26.079] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[27Mar2025 16:18:26.200] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 16:18:26.202] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 16:18:26.223] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 16:18:26.287] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 16:18:26.292] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 16:18:26.366] [main/INFO] [Puzzles Lib/]: Loading 83 mods:
+[28Mar2025 02:24:33.817] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[28Mar2025 02:24:33.825] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[28Mar2025 02:24:34.523] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[28Mar2025 02:24:34.570] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Servidor/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[28Mar2025 02:24:35.021] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 02:24:35.022] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 02:24:35.023] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 02:24:35.025] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Servidor/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 02:24:35.352] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[28Mar2025 02:24:35.354] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[28Mar2025 02:24:38.052] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Mar2025 02:24:38.425] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[28Mar2025 02:24:38.428] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28Mar2025 02:24:38.643] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 02:24:38.645] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 02:24:38.673] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 02:24:38.744] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 02:24:38.751] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 02:24:38.802] [main/INFO] [Puzzles Lib/]: Loading 83 mods:
 	- advancednetherite 2.1.3
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
@@ -100,764 +100,230 @@
 	- voicechat 1.20.1-2.5.26
 	- waystones 14.1.11
 	- yungsapi 1.20-Forge-4.0.6
-[27Mar2025 16:18:26.568] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[27Mar2025 16:18:27.326] [main/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/entity/event/v1/FabricElytraItem (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.entity.event.v1.FabricElytraItem)
-[27Mar2025 16:18:27.837] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[27Mar2025 16:18:27.837] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[27Mar2025 16:18:28.166] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[27Mar2025 16:18:35.138] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[28Mar2025 02:24:39.000] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[28Mar2025 02:24:40.052] [main/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/entity/event/v1/FabricElytraItem (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.entity.event.v1.FabricElytraItem)
+[28Mar2025 02:24:40.563] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[28Mar2025 02:24:40.563] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[28Mar2025 02:24:40.862] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[28Mar2025 02:24:47.390] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[27Mar2025 16:18:35.749] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[27Mar2025 16:18:35.776] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[27Mar2025 16:18:35.800] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[27Mar2025 16:18:35.872] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[27Mar2025 16:18:35.895] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[27Mar2025 16:18:35.946] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[27Mar2025 16:18:36.271] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[27Mar2025 16:18:36.278] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[27Mar2025 16:18:36.286] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[27Mar2025 16:18:36.290] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[27Mar2025 16:18:36.291] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[27Mar2025 16:18:36.295] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[27Mar2025 16:18:36.299] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[27Mar2025 16:18:36.300] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[27Mar2025 16:18:36.668] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[27Mar2025 16:18:36.668] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[27Mar2025 16:18:36.669] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[27Mar2025 16:18:36.669] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[27Mar2025 16:18:36.669] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[27Mar2025 16:18:36.669] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[27Mar2025 16:18:36.669] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[27Mar2025 16:18:36.752] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[27Mar2025 16:18:36.753] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[27Mar2025 16:18:36.801] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[27Mar2025 16:18:36.985] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[27Mar2025 16:18:37.472] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[27Mar2025 16:18:37.646] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
-[27Mar2025 16:18:37.654] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[27Mar2025 16:18:37.968] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[27Mar2025 16:18:38.022] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[27Mar2025 16:18:38.051] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[27Mar2025 16:18:42.388] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[27Mar2025 16:18:42.604] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[27Mar2025 16:18:42.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[27Mar2025 16:18:42.679] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[27Mar2025 16:18:42.897] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[27Mar2025 16:18:42.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[27Mar2025 16:18:42.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[27Mar2025 16:18:42.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[27Mar2025 16:18:42.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[27Mar2025 16:18:42.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[27Mar2025 16:18:42.994] [modloading-worker-0/INFO] [net.twomoonsstudios.moonsweaponry.MoonsWeaponry/]: GREMLINS OF ALL KINDS ARISE!!! Weaponworks setting up!
-[27Mar2025 16:18:42.996] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
-[27Mar2025 16:18:43.015] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[27Mar2025 16:18:43.041] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[27Mar2025 16:18:43.042] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[27Mar2025 16:18:43.057] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[27Mar2025 16:18:43.058] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[27Mar2025 16:18:43.061] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[27Mar2025 16:18:43.141] [main/INFO] [journeymap/]: Initializing Packet Registries
-[27Mar2025 16:18:43.195] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[27Mar2025 16:18:43.195] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[27Mar2025 16:18:43.195] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[27Mar2025 16:18:43.196] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[27Mar2025 16:18:43.198] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[27Mar2025 16:18:43.198] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[27Mar2025 16:18:43.198] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[27Mar2025 16:18:43.201] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[27Mar2025 16:18:43.433] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[27Mar2025 16:18:43.441] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[27Mar2025 16:18:43.442] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[27Mar2025 16:18:43.456] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[27Mar2025 16:18:43.462] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[27Mar2025 16:18:43.464] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[27Mar2025 16:18:43.464] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[27Mar2025 16:18:43.466] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[27Mar2025 16:18:43.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[27Mar2025 16:18:43.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[27Mar2025 16:18:43.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[27Mar2025 16:18:43.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[27Mar2025 16:18:43.895] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.33 Target: null
-[27Mar2025 16:18:43.896] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Starting version check at https://api.modrinth.com/updates/cobweb/forge_updates.json
-[27Mar2025 16:18:44.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[27Mar2025 16:18:44.124] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[27Mar2025 16:18:44.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[27Mar2025 16:18:44.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[27Mar2025 16:18:44.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
-[27Mar2025 16:18:44.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
-[27Mar2025 16:18:44.661] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Found status: UP_TO_DATE Current: 4.0.11 Target: null
-[27Mar2025 16:18:44.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[27Mar2025 16:18:44.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[27Mar2025 16:18:44.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Mar2025 16:18:44.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[27Mar2025 16:18:44.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[27Mar2025 16:18:44.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
-[27Mar2025 16:18:44.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[27Mar2025 16:18:45.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.28
-[27Mar2025 16:18:45.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[27Mar2025 16:18:45.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.10
-[27Mar2025 16:18:45.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[27Mar2025 16:18:45.505] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[27Mar2025 16:18:45.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[27Mar2025 16:18:45.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
-[27Mar2025 16:18:45.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[27Mar2025 16:18:45.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[27Mar2025 16:18:45.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[27Mar2025 16:18:45.744] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[27Mar2025 16:18:45.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[27Mar2025 16:18:45.834] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[27Mar2025 16:18:45.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[27Mar2025 16:18:45.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
-[27Mar2025 16:18:45.845] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[27Mar2025 16:18:45.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
-[27Mar2025 16:18:45.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[27Mar2025 16:18:45.897] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Mar2025 16:18:46.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[27Mar2025 16:18:46.462] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
-[27Mar2025 16:18:46.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
-[27Mar2025 16:18:47.854] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/assets/.mcassetsroot' uses unexpected schema
-[27Mar2025 16:18:47.854] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/data/.mcassetsroot' uses unexpected schema
-[27Mar2025 16:18:48.711] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[27Mar2025 16:18:50.221] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[27Mar2025 16:18:50.375] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
-[27Mar2025 16:18:51.866] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[27Mar2025 16:18:52.032] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3117 advancements
-[27Mar2025 16:18:52.111] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[27Mar2025 16:18:52.120] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[27Mar2025 16:18:52.156] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
-[27Mar2025 16:18:52.157] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
-[27Mar2025 16:18:52.157] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
-[27Mar2025 16:18:52.157] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[27Mar2025 16:18:52.157] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
-[27Mar2025 16:18:52.157] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
-[27Mar2025 16:18:52.157] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
-[27Mar2025 16:18:52.158] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[27Mar2025 16:18:52.158] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[27Mar2025 16:18:52.158] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[27Mar2025 16:18:52.159] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[27Mar2025 16:18:52.159] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[27Mar2025 16:18:52.159] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
-[27Mar2025 16:18:52.159] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[27Mar2025 16:18:52.159] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
-[27Mar2025 16:18:52.159] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[27Mar2025 16:18:52.159] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
-[27Mar2025 16:18:52.160] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
-[27Mar2025 16:18:52.160] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[27Mar2025 16:18:52.160] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
-[27Mar2025 16:18:52.160] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
-[27Mar2025 16:18:52.160] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
-[27Mar2025 16:18:52.160] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
-[27Mar2025 16:18:52.160] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
-[27Mar2025 16:18:52.161] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
-[27Mar2025 16:18:52.161] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
-[27Mar2025 16:18:52.161] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
-[27Mar2025 16:18:52.161] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
-[27Mar2025 16:18:52.161] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
-[27Mar2025 16:18:52.161] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
-[27Mar2025 16:18:53.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[27Mar2025 16:18:53.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27Mar2025 16:18:53.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27Mar2025 16:18:53.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Mar2025 16:18:54.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27Mar2025 16:18:54.081] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[27Mar2025 16:18:54.172] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[27Mar2025 16:18:54.173] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[27Mar2025 16:18:54.173] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[27Mar2025 16:18:54.173] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[27Mar2025 16:18:54.194] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[27Mar2025 16:18:54.197] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[27Mar2025 16:18:54.197] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[27Mar2025 16:18:54.199] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[27Mar2025 16:18:54.201] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[27Mar2025 16:18:54.447] [Server thread/INFO] [Framework/]: Loading server configs...
-[27Mar2025 16:18:54.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27Mar2025 16:18:55.783] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
-[27Mar2025 16:18:58.595] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
-[27Mar2025 16:18:58.596] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, minecraft:end_cities]
-[27Mar2025 16:18:58.597] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:3 potentially creating overlapping structures detected. Structure sets: [alexscaves:cake_cave, alexscaves:ferrocave]
-[27Mar2025 16:18:58.597] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost]
-[27Mar2025 16:18:58.597] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
-[27Mar2025 16:18:58.598] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [minecraft:villages, nova_structures:villages_jungle, nova_structures:villages_swamp]
-[27Mar2025 16:18:58.598] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:2 potentially creating overlapping structures detected. Structure sets: [alexscaves:ocean_trench, alexscaves:acid_pit]
-[27Mar2025 16:18:58.599] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [nova_structures:desert_ruins, nova_structures:jungle_ruins]
-[27Mar2025 16:18:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Mar2025 16:19:01.835] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[27Mar2025 16:19:06.576] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.647] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.659] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.743] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.752] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[27Mar2025 16:19:06.800] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.821] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.833] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.854] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.859] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.861] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.863] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.864] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.867] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.868] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.870] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:06.871] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 16:19:07.288] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[27Mar2025 16:19:07.572] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[27Mar2025 16:19:07.787] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
-[27Mar2025 16:19:08.015] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
-[27Mar2025 16:19:08.171] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9385 ms
-[27Mar2025 16:19:08.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.985s)! For help, type "help"
-[27Mar2025 16:19:08.226] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[27Mar2025 16:19:08.227] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[27Mar2025 16:19:08.338] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[27Mar2025 16:19:08.349] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2035
-[27Mar2025 16:19:29.815] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[27Mar2025 16:19:29.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/127.104.78.195:34069] logged in with entity id 729 at (258.7190117931854, 66.0, 145.23750001192093)
-[27Mar2025 16:19:30.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
-[27Mar2025 16:19:30.164] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
-[27Mar2025 16:19:31.554] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
-[27Mar2025 16:19:31.556] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
-[27Mar2025 16:19:34.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midgard2552[/127.53.27.81:48083] logged in with entity id 945 at (258.54743681591435, 68.0, 146.54252011541647)
-[27Mar2025 16:19:34.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 joined the game
-[27Mar2025 16:19:34.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[27Mar2025 16:19:34.665] [Server thread/INFO] [Jade/]: Syncing config to Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721)
-[27Mar2025 16:19:35.645] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midgard2552 (18)
-[27Mar2025 16:19:35.647] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midgard2552
-[27Mar2025 16:19:36.166] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[27Mar2025 16:19:36.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
-[27Mar2025 16:19:37.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 lost connection: Disconnected
-[27Mar2025 16:19:37.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 left the game
-[27Mar2025 16:19:37.485] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aleksito27
-[27Mar2025 16:19:38.925] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b2f48e0-3526-383b-968c-7681c44da721
-[27Mar2025 16:19:39.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b2f48e0-3526-383b-968c-7681c44da721
-[27Mar2025 16:19:39.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721) successfully connected to voice chat
-[27Mar2025 16:20:05.019] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hong'/748, l='ServerLevel[world]', x=311.07, y=68.00, z=137.81] died, message: 'Hong was slain by Zombie'
-[27Mar2025 16:20:05.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hong'/748, l='ServerLevel[world]', x=311.07, y=68.00, z=137.81] died: Hong was slain by Zombie
-[27Mar2025 16:20:34.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Hong'/1040, l='ServerLevel[world]', x=311.51, y=68.00, z=138.48] died: Hong burned to death
-[27Mar2025 16:26:05.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/127.104.78.195:41243] logged in with entity id 2185 at (258.7190117931854, 66.0, 145.23750001192093)
-[27Mar2025 16:26:05.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
-[27Mar2025 16:26:05.809] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
-[27Mar2025 16:26:07.378] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
-[27Mar2025 16:26:07.378] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
-[27Mar2025 16:26:14.790] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[27Mar2025 16:26:15.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[27Mar2025 16:26:15.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
-[27Mar2025 16:33:58.759] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=182, y=7, z=672}
-[27Mar2025 16:34:03.112] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=227, y=-33, z=715}
-[27Mar2025 16:34:05.681] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=212, y=37, z=724}
-[27Mar2025 16:34:14.464] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=237, y=16, z=776}
-[27Mar2025 16:34:21.716] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=196, y=35, z=828}
-[27Mar2025 16:34:24.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Cover Me with Diamonds]
-[27Mar2025 16:34:24.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Funeral Theft]
-[27Mar2025 16:34:41.610] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=89, y=-29, z=657}
-[27Mar2025 16:34:48.863] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=177, y=3, z=877}
-[27Mar2025 16:34:48.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=99, y=-18, z=867}
-[27Mar2025 16:35:11.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [A Lighthouse in Your Eyes]
-[27Mar2025 16:35:11.970] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=65, y=6, z=798}
-[27Mar2025 16:35:12.069] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=72, y=82, z=688}
-[27Mar2025 16:35:26.842] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=251, y=-1, z=980}
-[27Mar2025 16:35:26.848] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=227, y=-3, z=983}
-[27Mar2025 16:35:43.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[27Mar2025 16:35:43.746] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=15, y=31, z=711}
-[27Mar2025 16:35:47.898] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-18, y=20, z=745}
-[27Mar2025 16:35:48.460] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-12, y=17, z=928}
-[27Mar2025 16:35:51.093] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-41, y=-42, z=711}
-[27Mar2025 16:35:51.096] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-33, y=34, z=800}
-[27Mar2025 16:35:51.217] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-45, y=-17, z=828}
-[27Mar2025 16:35:51.419] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
-[27Mar2025 16:35:51.420] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[27Mar2025 16:35:51.659] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-46, y=17, z=956}
-[27Mar2025 16:36:00.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-45, y=21, z=1024}
-[27Mar2025 16:36:01.638] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
-[27Mar2025 16:36:01.638] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
-[27Mar2025 16:36:52.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=227, y=65, z=934} BlockPos{x=227, y=65, z=935}
-[27Mar2025 16:37:29.199] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=17, y=-2, z=1142}
-[27Mar2025 16:37:29.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=224, y=-10, z=1164}
-[27Mar2025 16:38:27.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[27Mar2025 16:38:30.269] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=24, y=81, z=1232}
-[27Mar2025 16:38:34.265] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-31, y=30, z=1174}
-[27Mar2025 16:39:02.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-64, y=-5, z=1036}
-[27Mar2025 16:39:05.424] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-53, y=-9, z=1148}
-[27Mar2025 16:39:06.878] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-65, y=-28, z=993}
-[27Mar2025 16:41:13.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Where Is The Stone Pen?]
-[27Mar2025 16:43:55.421] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=42, y=31, z=1413}
-[27Mar2025 16:43:55.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=123, y=21, z=1417}
-[27Mar2025 16:44:04.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=66, y=-10, z=1460}
-[27Mar2025 16:44:07.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=206, y=-24, z=1482}
-[27Mar2025 16:44:40.670] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=108, y=-43, z=1529}
-[27Mar2025 16:44:53.088] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-43, y=-3, z=1604}
-[27Mar2025 16:44:58.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-33, y=-44, z=1621}
-[27Mar2025 16:44:58.166] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-16, y=12, z=1625}
-[27Mar2025 16:44:58.167] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=135, y=-31, z=1630}
-[27Mar2025 16:45:08.912] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=258, y=-3, z=1645}
-[27Mar2025 16:45:09.742] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-56, y=-2, z=1641}
-[27Mar2025 16:45:09.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=294, y=-44, z=1639}
-[27Mar2025 16:45:15.362] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=336, y=20, z=1573}
-[27Mar2025 16:45:25.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=376, y=-44, z=1406}
-[27Mar2025 16:45:33.862] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=414, y=-45, z=1223}
-[27Mar2025 16:45:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Like a bird]
-[27Mar2025 16:45:40.920] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=430, y=-48, z=1387}
-[27Mar2025 16:45:48.319] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=445, y=-45, z=1563}
-[27Mar2025 16:45:51.069] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=461, y=26, z=1457}
-[27Mar2025 16:45:51.213] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=463, y=16, z=1427}
-[27Mar2025 16:45:53.914] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=472, y=6, z=1492}
-[27Mar2025 16:46:25.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Fortuitous Militia]
-[27Mar2025 16:46:39.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Zombie
-[27Mar2025 16:46:39.213] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 16:46:41.811] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=504, y=-51, z=1275}
-[27Mar2025 16:46:48.668] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=145, y=-21, z=1662}
-[27Mar2025 16:46:50.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=192, y=-48, z=1674}
-[27Mar2025 16:46:55.623] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=259, y=-49, z=1709}
-[27Mar2025 16:47:03.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/11615, l='ServerLevel[world]', x=464.48, y=10.46, z=1548.84] died: Kex the Mean starved to death
-[27Mar2025 16:47:23.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=114, y=9, z=1758}
-[27Mar2025 16:47:23.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=117, y=8, z=1753}
-[27Mar2025 16:47:24.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=495, y=-43, z=1776}
-[27Mar2025 16:47:29.429] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=171, y=-11, z=1807}
-[27Mar2025 16:47:29.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=150, y=-42, z=1795}
-[27Mar2025 16:47:49.669] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=245, y=-23, z=1808}
-[27Mar2025 16:48:52.860] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=412, y=34, z=1904}
-[27Mar2025 16:49:00.915] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=434, y=-6, z=1926}
-[27Mar2025 16:49:07.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=380, y=-18, z=1974}
-[27Mar2025 16:49:10.769] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=384, y=-50, z=1986}
-[27Mar2025 16:49:11.618] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=474, y=11, z=1929}
-[27Mar2025 16:49:18.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=317, y=-26, z=2045}
-[27Mar2025 16:49:19.394] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=487, y=-25, z=1855}
-[27Mar2025 16:49:19.713] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=488, y=-48, z=1952}
-[27Mar2025 16:49:31.411] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=222, y=2, z=2091}
-[27Mar2025 16:49:31.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=330, y=2, z=2084}
-[27Mar2025 16:49:34.062] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=521, y=-48, z=1789}
-[27Mar2025 16:49:34.424] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=512, y=-6, z=2061}
-[27Mar2025 16:49:35.916] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=508, y=-50, z=2101}
-[27Mar2025 16:49:39.767] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=538, y=-34, z=2081}
-[27Mar2025 16:49:41.872] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=544, y=-50, z=2079}
-[27Mar2025 16:49:48.715] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=371, y=-16, z=2151}
-[27Mar2025 16:49:58.891] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=597, y=-54, z=2070}
-[27Mar2025 16:49:59.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=604, y=-13, z=1935}
-[27Mar2025 16:50:02.263] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=623, y=-53, z=1946}
-[27Mar2025 16:50:02.415] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=502, y=-16, z=2193}
-[27Mar2025 16:50:03.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=604, y=11, z=2214}
-[27Mar2025 16:50:03.945] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=475, y=-47, z=2208}
-[27Mar2025 16:51:16.126] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Manuel_Jota_23[/127.122.180.152:52225] logged in with entity id 15602 at (17.97215607658935, 130.0, 17.106512651018775)
-[27Mar2025 16:51:16.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 joined the game
-[27Mar2025 16:51:16.182] [Server thread/INFO] [Jade/]: Syncing config to Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342)
-[27Mar2025 16:51:16.996] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Manuel_Jota_23 (18)
-[27Mar2025 16:51:16.997] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Manuel_Jota_23
-[27Mar2025 16:51:19.245] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17a14630-7183-39be-ad60-214f2ed89342
-[27Mar2025 16:51:20.246] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17a14630-7183-39be-ad60-214f2ed89342
-[27Mar2025 16:51:20.247] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342) successfully connected to voice chat
-[27Mar2025 16:51:31.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Crafting a New Look]
-[27Mar2025 16:52:28.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [People Are Strange]
-[27Mar2025 16:52:40.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Manuel_Jota_23 to Midgard2552]
-[27Mar2025 16:53:14.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Acquire Hardware]
-[27Mar2025 16:53:15.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Diamonds!]
-[27Mar2025 16:53:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Suit Up]
-[27Mar2025 16:53:35.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Hot Stuff]
-[27Mar2025 16:56:41.549] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=640, y=22, z=1962}
-[27Mar2025 16:56:49.298] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=667, y=-16, z=2070}
-[27Mar2025 16:56:49.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=659, y=3, z=2061}
-[27Mar2025 16:57:42.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=674, y=9, z=2069}
-[27Mar2025 16:57:42.597] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=674, y=-46, z=2180}
-[27Mar2025 16:57:42.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Pic-A-Nic Basket?]
-[27Mar2025 17:00:49.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Monster Hunter]
-[27Mar2025 17:07:51.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Not Today, Thank You]
-[27Mar2025 17:14:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Manuel_Jota_23 to Aleksito27]
-[27Mar2025 17:14:48.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
-[27Mar2025 17:18:53.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [A Strange Grave Dust]
-[27Mar2025 17:19:06.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [What a Deal!]
-[27Mar2025 17:28:03.364] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=907, y=35, z=2}
-[27Mar2025 17:28:03.590] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=909, y=34, z=66}
-[27Mar2025 17:28:03.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=911, y=-24, z=143}
-[27Mar2025 17:28:04.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=920, y=-25, z=23}
-[27Mar2025 17:28:06.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=942, y=35, z=123}
-[27Mar2025 17:28:18.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[27Mar2025 17:28:20.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=962, y=13, z=214}
-[27Mar2025 17:28:20.102] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Norma'/37654, l='ServerLevel[world]', x=877.89, y=135.00, z=181.08] died, message: 'Norma was slain by Tiger'
-[27Mar2025 17:28:20.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Norma'/37654, l='ServerLevel[world]', x=877.89, y=135.00, z=181.08] died: Norma was slain by Tiger
-[27Mar2025 17:28:27.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1023, y=34, z=38}
-[27Mar2025 17:28:28.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bree'/37606, l='ServerLevel[world]', x=873.59, y=140.00, z=233.64] died, message: 'Bree was slain by Tiger'
-[27Mar2025 17:28:28.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bree'/37606, l='ServerLevel[world]', x=873.59, y=140.00, z=233.64] died: Bree was slain by Tiger
-[27Mar2025 17:28:32.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Abraham'/37639, l='ServerLevel[world]', x=912.52, y=143.00, z=240.60] died, message: 'Abraham was slain by Tiger'
-[27Mar2025 17:28:32.862] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Abraham'/37639, l='ServerLevel[world]', x=912.52, y=143.00, z=240.60] died: Abraham was slain by Tiger
-[27Mar2025 17:28:34.185] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1054, y=6, z=16}
-[27Mar2025 17:28:35.657] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1051, y=-25, z=89}
-[27Mar2025 17:28:35.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mckinley'/37573, l='ServerLevel[world]', x=878.18, y=139.00, z=237.53] died, message: 'Mckinley was slain by Tiger'
-[27Mar2025 17:28:35.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mckinley'/37573, l='ServerLevel[world]', x=878.18, y=139.00, z=237.53] died: Mckinley was slain by Tiger
-[27Mar2025 17:28:36.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
-[27Mar2025 17:28:48.736] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1039, y=-51, z=274}
-[27Mar2025 17:28:48.783] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1045, y=25, z=280}
-[27Mar2025 17:28:53.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Haywood'/37607, l='ServerLevel[world]', x=882.16, y=140.00, z=249.39] died, message: 'Haywood was slain by Tiger'
-[27Mar2025 17:28:53.225] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Haywood'/37607, l='ServerLevel[world]', x=882.16, y=140.00, z=249.39] died: Haywood was slain by Tiger
-[27Mar2025 17:28:54.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jenae'/37725, l='ServerLevel[world]', x=893.64, y=139.00, z=232.78] died, message: 'Jenae was slain by Tiger'
-[27Mar2025 17:28:54.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jenae'/37725, l='ServerLevel[world]', x=893.64, y=139.00, z=232.78] died: Jenae was slain by Tiger
-[27Mar2025 17:28:58.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Narcisa'/37635, l='ServerLevel[world]', x=893.24, y=139.00, z=232.51] died, message: 'Narcisa was slain by Tiger'
-[27Mar2025 17:28:58.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Narcisa'/37635, l='ServerLevel[world]', x=893.24, y=139.00, z=232.51] died: Narcisa was slain by Tiger
-[27Mar2025 17:29:07.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1185, y=-52, z=118}
-[27Mar2025 17:29:07.900] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=969, y=11, z=319}
-[27Mar2025 17:29:09.945] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1039, y=-26, z=310}
-[27Mar2025 17:29:11.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1082, y=-51, z=306}
-[27Mar2025 17:29:16.933] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1211, y=-41, z=10}
-[27Mar2025 17:29:16.942] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1201, y=32, z=161}
-[27Mar2025 17:29:16.951] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1207, y=-15, z=-58}
-[27Mar2025 17:29:19.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Annamae'/37571, l='ServerLevel[world]', x=864.18, y=138.00, z=220.30] died, message: 'Annamae was slain by Tiger'
-[27Mar2025 17:29:19.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Annamae'/37571, l='ServerLevel[world]', x=864.18, y=138.00, z=220.30] died: Annamae was slain by Tiger
-[27Mar2025 17:29:43.453] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cecily'/37638, l='ServerLevel[world]', x=897.01, y=140.00, z=244.71] died, message: 'Cecily was slain by Tiger'
-[27Mar2025 17:29:43.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cecily'/37638, l='ServerLevel[world]', x=897.01, y=140.00, z=244.71] died: Cecily was slain by Tiger
-[27Mar2025 17:30:04.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1241, y=9, z=-100}
-[27Mar2025 17:30:09.550] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1266, y=-23, z=12}
-[27Mar2025 17:30:10.364] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1272, y=18, z=-105}
-[27Mar2025 17:30:25.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1337, y=19, z=210}
-[27Mar2025 17:30:25.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1335, y=-39, z=252}
-[27Mar2025 17:30:30.063] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1248, y=15, z=-114}
-[27Mar2025 17:30:30.066] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1274, y=32, z=-120}
-[27Mar2025 17:31:27.295] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1218, y=14, z=-191}
-[27Mar2025 17:31:29.432] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=939, y=20, z=-168}
-[27Mar2025 17:32:44.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Super Creeps]
-[27Mar2025 17:33:32.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MushroomCow['Gowl the Mad'/38669, l='ServerLevel[world]', x=1094.83, y=226.00, z=62.15] died: Gowl the Mad was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:35:35.230] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1112, y=0, z=330}
-[27Mar2025 17:37:17.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb timed out
-[27Mar2025 17:37:17.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Aleksito27
-[27Mar2025 17:37:17.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
-[27Mar2025 17:37:17.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 17a14630-7183-39be-ad60-214f2ed89342 timed out
-[27Mar2025 17:37:17.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Manuel_Jota_23
-[27Mar2025 17:37:17.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Manuel_Jota_23
-[27Mar2025 17:37:20.380] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[27Mar2025 17:37:20.393] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17a14630-7183-39be-ad60-214f2ed89342
-[27Mar2025 17:37:21.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[27Mar2025 17:37:21.381] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
-[27Mar2025 17:37:21.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17a14630-7183-39be-ad60-214f2ed89342
-[27Mar2025 17:37:21.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342) successfully connected to voice chat
-[27Mar2025 17:37:34.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Super Creeps]
-[27Mar2025 17:40:49.681] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45259, l='ServerLevel[world]', x=1114.30, y=223.01, z=56.30] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:40:56.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Isn't It Iron Pick]
-[27Mar2025 17:41:21.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was shot by Dinnerbone
-[27Mar2025 17:41:21.691] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:41:27.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Not Today, Thank You]
-[27Mar2025 17:41:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Manuel_Jota_23 to Midgard2552]
-[27Mar2025 17:41:45.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Super Creeps]
-[27Mar2025 17:41:53.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41795, l='ServerLevel[world]', x=1117.90, y=222.01, z=39.95] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:42:06.875] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45476, l='ServerLevel[world]', x=1118.19, y=222.01, z=39.21] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:42:09.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46051, l='ServerLevel[world]', x=1117.82, y=222.01, z=39.98] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:42:11.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Chain Death]
-[27Mar2025 17:42:11.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was shot by Dinnerbone
-[27Mar2025 17:42:11.882] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.42.11.dat
-[27Mar2025 17:42:11.886] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:42:21.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45300, l='ServerLevel[world]', x=1117.03, y=222.01, z=40.22] died: Dinnerbone was slain by Midgard2552
-[27Mar2025 17:42:22.125] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45299, l='ServerLevel[world]', x=1114.53, y=222.01, z=32.36] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:42:24.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45338, l='ServerLevel[world]', x=1118.05, y=222.01, z=38.78] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:42:39.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Magic Writing]
-[27Mar2025 17:42:50.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Magic Writing]
-[27Mar2025 17:42:53.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45570, l='ServerLevel[world]', x=1099.30, y=222.01, z=64.24] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:42:58.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was shot by Dinnerbone
-[27Mar2025 17:42:58.829] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.42.58.dat
-[27Mar2025 17:42:58.836] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:43:07.574] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45295, l='ServerLevel[world]', x=1103.26, y=222.01, z=56.58] died: Dinnerbone was slain by Midgard2552
-[27Mar2025 17:43:18.067] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/41896, l='ServerLevel[world]', x=1099.30, y=222.01, z=61.50] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:43:18.122] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45296, l='ServerLevel[world]', x=1099.31, y=222.01, z=61.93] died: Dinnerbone was slain by Midgard2552
-[27Mar2025 17:43:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
-[27Mar2025 17:43:42.522] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.43.42.dat
-[27Mar2025 17:43:42.529] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:44:42.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 withered away
-[27Mar2025 17:44:42.576] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.44.42.dat
-[27Mar2025 17:44:42.579] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:44:55.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
-[27Mar2025 17:44:55.371] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.44.55.dat
-[27Mar2025 17:44:55.382] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:45:00.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Spooky Scary Skeleton]
-[27Mar2025 17:45:23.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manuel_Jota_23 lost connection: Disconnected
-[27Mar2025 17:45:23.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 left the game
-[27Mar2025 17:45:23.028] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Manuel_Jota_23
-[27Mar2025 17:46:29.018] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45742, l='ServerLevel[world]', x=1100.56, y=214.01, z=61.14] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:46:30.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/42527, l='ServerLevel[world]', x=1100.59, y=214.01, z=60.96] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:46:54.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Spider
-[27Mar2025 17:46:54.878] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.46.54.dat
-[27Mar2025 17:46:54.886] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:47:06.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46691, l='ServerLevel[world]', x=1105.90, y=214.01, z=56.30] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:47:19.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45741, l='ServerLevel[world]', x=1100.97, y=214.01, z=60.64] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:47:27.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/45979, l='ServerLevel[world]', x=1100.34, y=214.01, z=63.08] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:47:48.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Cover Me with Diamonds]
-[27Mar2025 17:48:04.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was shot by Dinnerbone
-[27Mar2025 17:48:04.475] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.48.04.dat
-[27Mar2025 17:48:04.480] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:48:17.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/46081, l='ServerLevel[world]', x=1104.49, y=214.01, z=61.04] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:49:05.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Bone Crusher]
-[27Mar2025 17:49:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was blown up by Creeper
-[27Mar2025 17:49:11.620] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.49.11.dat
-[27Mar2025 17:49:11.636] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:49:34.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47702, l='ServerLevel[world]', x=1096.67, y=206.01, z=54.35] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:49:36.668] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/44744, l='ServerLevel[world]', x=1096.40, y=206.01, z=51.47] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:50:35.680] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/44745, l='ServerLevel[world]', x=1095.29, y=206.01, z=51.36] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:51:51.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48970, l='ServerLevel[world]', x=1102.29, y=198.01, z=34.30] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:51:59.065] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48748, l='ServerLevel[world]', x=1110.70, y=206.01, z=33.30] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:52:17.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51138, l='ServerLevel[world]', x=1105.79, y=198.01, z=39.47] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:52:24.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51451, l='ServerLevel[world]', x=1105.64, y=198.01, z=40.70] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:53:04.067] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49605, l='ServerLevel[world]', x=1095.90, y=198.01, z=63.63] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:53:08.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51761, l='ServerLevel[world]', x=1089.18, y=198.01, z=60.64] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:53:11.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/49607, l='ServerLevel[world]', x=1086.65, y=198.01, z=66.63] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:53:11.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51000, l='ServerLevel[world]', x=1089.70, y=198.01, z=63.26] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:53:19.775] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1862e93e[id=<null>,name=Manuel_Jota_23,properties={},legacy=false] (/127.122.180.152:56683) lost connection: Disconnected
-[27Mar2025 17:53:27.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Manuel_Jota_23[/127.122.180.152:60467] logged in with entity id 52361 at (1099.300000011921, 210.0, 32.30000001192093)
-[27Mar2025 17:53:27.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 joined the game
-[27Mar2025 17:53:27.249] [Server thread/INFO] [Jade/]: Syncing config to Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342)
-[27Mar2025 17:53:27.922] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Manuel_Jota_23 (18)
-[27Mar2025 17:53:27.922] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Manuel_Jota_23
-[27Mar2025 17:53:30.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17a14630-7183-39be-ad60-214f2ed89342
-[27Mar2025 17:53:31.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17a14630-7183-39be-ad60-214f2ed89342
-[27Mar2025 17:53:31.327] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342) successfully connected to voice chat
-[27Mar2025 17:53:48.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47302, l='ServerLevel[world]', x=1095.60, y=206.01, z=48.47] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:54:15.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/48969, l='ServerLevel[world]', x=1104.20, y=206.01, z=34.02] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:54:35.468] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51791, l='ServerLevel[world]', x=1105.55, y=190.01, z=64.70] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:54:42.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50328, l='ServerLevel[world]', x=1102.87, y=190.01, z=59.35] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:54:45.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50330, l='ServerLevel[world]', x=1104.67, y=190.01, z=60.79] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:55:30.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
-[27Mar2025 17:55:30.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.55.30.dat
-[27Mar2025 17:55:30.341] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:55:33.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/51975, l='ServerLevel[world]', x=1105.71, y=190.01, z=62.78] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:55:38.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52372, l='ServerLevel[world]', x=1085.30, y=190.01, z=32.30] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:55:44.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/52740, l='ServerLevel[world]', x=1094.62, y=190.01, z=36.42] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:56:15.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53337, l='ServerLevel[world]', x=1121.70, y=182.01, z=60.21] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:56:17.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Not Today, Thank You]
-[27Mar2025 17:56:22.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47682, l='ServerLevel[world]', x=1091.74, y=206.01, z=34.35] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:56:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Postmortal]
-[27Mar2025 17:56:24.279] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 17:56:27.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Knowledge of Death]
-[27Mar2025 17:56:27.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Strong or Careful]
-[27Mar2025 17:56:27.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was shot by Dinnerbone
-[27Mar2025 17:56:27.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-17.56.27.dat
-[27Mar2025 17:56:27.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Your First Grave]
-[27Mar2025 17:56:27.133] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 17:56:28.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [The Most Useful Key]
-[27Mar2025 17:56:28.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/47684, l='ServerLevel[world]', x=1089.54, y=206.01, z=35.01] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:56:29.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53602, l='ServerLevel[world]', x=1120.36, y=182.01, z=55.43] died: Dinnerbone was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 17:56:38.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [A Fast Comeback]
-[27Mar2025 17:56:43.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Here They Come]
-[27Mar2025 17:57:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Easter Egg Searcher]
-[27Mar2025 17:57:28.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Cave Spider
-[27Mar2025 17:57:28.723] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.57.28.dat
-[27Mar2025 17:57:28.728] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 17:57:29.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/50999, l='ServerLevel[world]', x=1090.22, y=198.01, z=63.37] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 17:58:05.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Diamonds!]
-[27Mar2025 17:58:13.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
-[27Mar2025 17:58:13.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-17.58.13.dat
-[27Mar2025 17:58:13.435] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:00:47.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
-[27Mar2025 18:00:47.576] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.00.47.dat
-[27Mar2025 18:00:47.581] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:00:53.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
-[27Mar2025 18:00:53.676] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:01:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
-[27Mar2025 18:01:40.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
-[27Mar2025 18:01:40.828] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.01.40.dat
-[27Mar2025 18:01:40.843] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:01:46.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53248, l='ServerLevel[world]', x=1106.02, y=166.01, z=41.37] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 18:01:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Wither Skeleton
-[27Mar2025 18:01:47.828] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:01:48.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53249, l='ServerLevel[world]', x=1103.87, y=166.01, z=42.22] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 18:01:50.782] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54551, l='ServerLevel[world]', x=1104.05, y=166.01, z=38.13] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 18:01:52.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was shot by Dinnerbone
-[27Mar2025 18:01:52.686] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.01.52.dat
-[27Mar2025 18:01:52.691] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:02:06.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
-[27Mar2025 18:02:19.125] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54490, l='ServerLevel[world]', x=1103.88, y=166.01, z=37.67] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 18:03:03.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54972, l='ServerLevel[world]', x=1105.40, y=166.01, z=34.34] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 18:03:10.851] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/54491, l='ServerLevel[world]', x=1106.35, y=166.01, z=34.92] died: Dinnerbone was slain by Midgard2552
-[27Mar2025 18:04:18.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/53937, l='ServerLevel[world]', x=1105.20, y=158.01, z=56.58] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 18:04:22.719] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/56266, l='ServerLevel[world]', x=1102.81, y=158.01, z=58.75] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 18:04:28.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/56267, l='ServerLevel[world]', x=1103.38, y=158.01, z=63.65] died: Dinnerbone was shot by Dinnerbone
-[27Mar2025 18:05:13.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Spider
-[27Mar2025 18:05:13.422] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.05.13.dat
-[27Mar2025 18:05:13.430] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:06:21.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [Bone Crusher]
-[27Mar2025 18:06:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Manuel_Jota_23 to Aleksito27]
-[27Mar2025 18:07:08.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Cover Me with Diamonds]
-[27Mar2025 18:07:49.709] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1243, y=-39, z=-207}
-[27Mar2025 18:08:42.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Stone Age]
-[27Mar2025 18:09:53.818] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1209, y=-42, z=-222}
-[27Mar2025 18:12:37.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has reached the goal [A Metropolis of Restless Souls]
-[27Mar2025 18:12:40.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [A Metropolis of Restless Souls]
-[27Mar2025 18:12:44.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Sneak 100]
-[27Mar2025 18:13:07.909] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1225, y=10, z=-240}
-[27Mar2025 18:13:22.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [A Metropolis of Restless Souls]
-[27Mar2025 18:13:31.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Sneak 100]
-[27Mar2025 18:17:25.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
-[27Mar2025 18:17:25.325] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:18:16.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
-[27Mar2025 18:18:16.776] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:19:10.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:19:10.621] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.19.10.dat
-[27Mar2025 18:19:10.631] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:19:18.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Discreet Search]
-[27Mar2025 18:22:25.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was doomed to fall by Warden
-[27Mar2025 18:22:25.337] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.22.25.dat
-[27Mar2025 18:22:25.338] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:22:53.263] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1339, y=-16, z=319}
-[27Mar2025 18:23:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:23:09.783] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:23:17.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
-[27Mar2025 18:23:17.945] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:23:30.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/38985, l='ServerLevel[world]', x=1145.30, y=-50.00, z=107.70] died: Vouzhul the Darkmaster was slain by Warden
-[27Mar2025 18:23:38.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
-[27Mar2025 18:23:38.426] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.23.38.dat
-[27Mar2025 18:23:38.436] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:24:15.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:24:15.434] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:24:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Warden
-[27Mar2025 18:24:37.972] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.24.37.dat
-[27Mar2025 18:24:37.991] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:24:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:24:50.274] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.24.50.dat
-[27Mar2025 18:24:50.289] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:25:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
-[27Mar2025 18:25:13.523] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.25.13.dat
-[27Mar2025 18:25:13.551] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:25:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Chain Death]
-[27Mar2025 18:25:25.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:25:25.472] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.25.25.dat
-[27Mar2025 18:25:25.491] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:25:27.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 17a14630-7183-39be-ad60-214f2ed89342 timed out
-[27Mar2025 18:25:27.912] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Manuel_Jota_23
-[27Mar2025 18:25:27.913] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Manuel_Jota_23
-[27Mar2025 18:25:31.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17a14630-7183-39be-ad60-214f2ed89342
-[27Mar2025 18:25:32.052] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17a14630-7183-39be-ad60-214f2ed89342
-[27Mar2025 18:25:32.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Manuel_Jota_23 (17a14630-7183-39be-ad60-214f2ed89342) successfully connected to voice chat
-[27Mar2025 18:26:01.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
-[27Mar2025 18:26:01.369] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.26.01.dat
-[27Mar2025 18:26:01.385] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:26:12.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:26:12.323] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.26.12.dat
-[27Mar2025 18:26:12.340] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:26:45.462] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1457, y=-2, z=217}
-[27Mar2025 18:26:46.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
-[27Mar2025 18:26:46.823] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.26.46.dat
-[27Mar2025 18:26:46.840] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:27:58.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
-[27Mar2025 18:27:58.717] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.27.58.dat
-[27Mar2025 18:27:58.731] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:29:06.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Amateur Archaeologist]
-[27Mar2025 18:29:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was burnt to a crisp whilst fighting Warden
-[27Mar2025 18:29:44.527] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.29.44.dat
-[27Mar2025 18:29:44.531] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:30:06.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Warden
-[27Mar2025 18:30:06.529] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.30.06.dat
-[27Mar2025 18:30:06.549] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:30:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Alex's Caves]
-[27Mar2025 18:30:50.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
-[27Mar2025 18:30:50.169] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.30.50.dat
-[27Mar2025 18:30:50.196] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:30:59.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:30:59.123] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.30.59.dat
-[27Mar2025 18:30:59.146] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:31:10.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Warden
-[27Mar2025 18:31:10.331] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.31.10.dat
-[27Mar2025 18:31:10.356] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:31:44.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was slain by Warden
-[27Mar2025 18:31:44.979] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:32:20.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:32:20.919] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.32.20.dat
-[27Mar2025 18:32:20.936] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:32:23.314] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=968, y=-10, z=369}
-[27Mar2025 18:32:46.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was obliterated by a sonically-charged shriek
-[27Mar2025 18:32:46.673] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.32.46.dat
-[27Mar2025 18:32:46.695] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:32:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:32:56.572] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.32.56.dat
-[27Mar2025 18:32:56.588] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:33:21.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was doomed to fall by Warden
-[27Mar2025 18:33:21.882] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Midgard2552 with unique ID travelersbackpack.standard_27.03.2025-18.33.21.dat
-[27Mar2025 18:33:21.884] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
-[27Mar2025 18:33:39.468] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=965, y=-20, z=396}
-[27Mar2025 18:33:44.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was doomed to fall by Warden
-[27Mar2025 18:33:44.550] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.33.44.dat
-[27Mar2025 18:33:44.555] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:33:45.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1050, y=-2, z=404}
-[27Mar2025 18:36:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:36:10.744] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:36:19.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:36:19.898] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:36:21.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:36:21.058] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.36.21.dat
-[27Mar2025 18:36:21.068] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:36:28.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:36:28.227] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:36:37.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:36:37.345] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:36:41.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
-[27Mar2025 18:36:41.935] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.36.41.dat
-[27Mar2025 18:36:41.946] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:36:47.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:36:47.396] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:36:57.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:36:57.957] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:37:09.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:37:09.099] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:37:21.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
-[27Mar2025 18:37:21.232] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.37.21.dat
-[27Mar2025 18:37:21.258] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:37:21.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:37:21.445] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:37:30.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:37:30.608] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:37:39.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Warden
-[27Mar2025 18:37:39.533] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.37.39.dat
-[27Mar2025 18:37:39.553] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:37:40.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:37:40.297] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:37:50.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:37:50.198] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:37:58.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:37:58.794] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:38:07.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:38:07.397] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:38:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Warden
-[27Mar2025 18:38:15.706] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
-[27Mar2025 18:38:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:38:18.275] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.38.18.dat
-[27Mar2025 18:38:18.290] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:38:25.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [Phantom Thief]
-[27Mar2025 18:39:06.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Aleksito27 to Midgard2552]
-[27Mar2025 18:39:09.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:39:09.077] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.39.09.dat
-[27Mar2025 18:39:09.088] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:39:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:39:35.480] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.39.35.dat
-[27Mar2025 18:39:35.494] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:40:02.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:40:02.779] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.40.02.dat
-[27Mar2025 18:40:02.794] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:40:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has completed the challenge [Phantom Thief]
-[27Mar2025 18:41:07.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Local Brewery]
-[27Mar2025 18:41:11.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:41:11.827] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.41.11.dat
-[27Mar2025 18:41:11.844] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:41:40.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was obliterated by a sonically-charged shriek
-[27Mar2025 18:41:40.529] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_27.03.2025-18.41.40.dat
-[27Mar2025 18:41:40.542] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
-[27Mar2025 18:44:05.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Manuel_Jota_23 to Midgard2552]
-[27Mar2025 18:44:23.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Neighborhood Brawl]
-[27Mar2025 18:44:23.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Odell'/81759, l='ServerLevel[world]', x=249.19, y=64.94, z=124.34] died: Odell was slain by Aleksito27 using [Killer Of Virgins]
-[27Mar2025 18:52:42.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Sweet Dreams]
-[27Mar2025 18:53:49.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [We Need to Go Deeper]
-[27Mar2025 18:53:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Incendium]
-[27Mar2025 19:07:07.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manuel_Jota_23 lost connection: Disconnected
-[27Mar2025 19:07:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 left the game
-[27Mar2025 19:07:07.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Manuel_Jota_23
-[27Mar2025 19:08:35.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Midgard2552 lost connection: Disconnected
-[27Mar2025 19:08:35.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 left the game
-[27Mar2025 19:08:35.019] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Midgard2552
-[27Mar2025 19:08:39.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 lost connection: Disconnected
-[27Mar2025 19:08:39.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 left the game
-[27Mar2025 19:08:39.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aleksito27
-[27Mar2025 19:08:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[27Mar2025 19:08:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[27Mar2025 19:08:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[27Mar2025 19:08:50.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[27Mar2025 19:08:51.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[27Mar2025 19:08:51.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[27Mar2025 19:08:51.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[27Mar2025 19:08:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[27Mar2025 19:08:51.128] [Server thread/INFO] [Framework/]: Unloading server configs...
-[27Mar2025 19:08:51.129] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[27Mar2025 19:08:51.131] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[27Mar2025 19:08:51.133] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28Mar2025 02:24:48.148] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[28Mar2025 02:24:48.163] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[28Mar2025 02:24:48.237] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[28Mar2025 02:24:48.289] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[28Mar2025 02:24:48.320] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[28Mar2025 02:24:48.375] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[28Mar2025 02:24:48.710] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[28Mar2025 02:24:48.715] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[28Mar2025 02:24:48.725] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[28Mar2025 02:24:48.727] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[28Mar2025 02:24:48.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[28Mar2025 02:24:48.736] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[28Mar2025 02:24:48.739] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[28Mar2025 02:24:48.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[28Mar2025 02:24:49.050] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[28Mar2025 02:24:49.054] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[28Mar2025 02:24:49.054] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[28Mar2025 02:24:49.055] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[28Mar2025 02:24:49.055] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[28Mar2025 02:24:49.055] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[28Mar2025 02:24:49.055] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[28Mar2025 02:24:49.121] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[28Mar2025 02:24:49.121] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[28Mar2025 02:24:49.159] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[28Mar2025 02:24:49.321] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[28Mar2025 02:24:50.249] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[28Mar2025 02:24:50.385] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
+[28Mar2025 02:24:50.506] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[28Mar2025 02:24:50.782] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[28Mar2025 02:24:50.872] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[28Mar2025 02:24:50.917] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[28Mar2025 02:24:55.112] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[28Mar2025 02:24:55.330] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[28Mar2025 02:24:55.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[28Mar2025 02:24:55.399] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[28Mar2025 02:24:55.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[28Mar2025 02:24:55.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[28Mar2025 02:24:55.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[28Mar2025 02:24:55.541] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[28Mar2025 02:24:55.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[28Mar2025 02:24:55.558] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[28Mar2025 02:24:55.577] [modloading-worker-0/INFO] [net.twomoonsstudios.moonsweaponry.MoonsWeaponry/]: GREMLINS OF ALL KINDS ARISE!!! Weaponworks setting up!
+[28Mar2025 02:24:55.578] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[28Mar2025 02:24:55.579] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[28Mar2025 02:24:55.604] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[28Mar2025 02:24:55.606] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[28Mar2025 02:24:55.631] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[28Mar2025 02:24:55.631] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[28Mar2025 02:24:55.638] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[28Mar2025 02:24:55.751] [main/INFO] [journeymap/]: Initializing Packet Registries
+[28Mar2025 02:24:55.806] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[28Mar2025 02:24:55.807] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[28Mar2025 02:24:55.807] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[28Mar2025 02:24:55.808] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[28Mar2025 02:24:55.813] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[28Mar2025 02:24:55.813] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[28Mar2025 02:24:55.814] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[28Mar2025 02:24:55.815] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[28Mar2025 02:24:56.063] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[28Mar2025 02:24:56.073] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[28Mar2025 02:24:56.074] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[28Mar2025 02:24:56.090] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[28Mar2025 02:24:56.095] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[28Mar2025 02:24:56.097] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[28Mar2025 02:24:56.098] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[28Mar2025 02:24:56.100] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[28Mar2025 02:24:56.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[28Mar2025 02:24:56.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[28Mar2025 02:24:56.255] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[28Mar2025 02:24:56.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[28Mar2025 02:24:56.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.33 Target: null
+[28Mar2025 02:24:56.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Starting version check at https://api.modrinth.com/updates/cobweb/forge_updates.json
+[28Mar2025 02:24:57.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[28Mar2025 02:24:57.182] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[28Mar2025 02:24:57.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[28Mar2025 02:24:57.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[28Mar2025 02:24:57.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
+[28Mar2025 02:24:57.722] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
+[28Mar2025 02:24:58.882] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Mar2025 02:25:00.744] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/assets/.mcassetsroot' uses unexpected schema
+[28Mar2025 02:25:00.744] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Servidor/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/data/.mcassetsroot' uses unexpected schema
+[28Mar2025 02:25:01.476] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[28Mar2025 02:25:01.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Found status: UP_TO_DATE Current: 4.0.11 Target: null
+[28Mar2025 02:25:01.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[28Mar2025 02:25:01.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[28Mar2025 02:25:01.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Mar2025 02:25:01.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[28Mar2025 02:25:01.763] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[28Mar2025 02:25:01.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
+[28Mar2025 02:25:01.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[28Mar2025 02:25:02.334] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.28
+[28Mar2025 02:25:02.335] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[28Mar2025 02:25:02.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.10
+[28Mar2025 02:25:02.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[28Mar2025 02:25:02.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[28Mar2025 02:25:02.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[28Mar2025 02:25:02.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[28Mar2025 02:25:02.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[28Mar2025 02:25:02.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[28Mar2025 02:25:02.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[28Mar2025 02:25:02.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[28Mar2025 02:25:02.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[28Mar2025 02:25:02.829] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[28Mar2025 02:25:02.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[28Mar2025 02:25:02.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
+[28Mar2025 02:25:02.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[28Mar2025 02:25:02.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
+[28Mar2025 02:25:02.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[28Mar2025 02:25:02.865] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[28Mar2025 02:25:02.948] [Worker-Main-3/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
+[28Mar2025 02:25:03.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[28Mar2025 02:25:03.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[28Mar2025 02:25:03.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[28Mar2025 02:25:04.389] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[28Mar2025 02:25:04.541] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3117 advancements
+[28Mar2025 02:25:04.577] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[28Mar2025 02:25:04.585] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[28Mar2025 02:25:04.610] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[28Mar2025 02:25:04.610] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[28Mar2025 02:25:04.610] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[28Mar2025 02:25:04.610] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[28Mar2025 02:25:04.611] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[28Mar2025 02:25:04.611] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[28Mar2025 02:25:04.611] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[28Mar2025 02:25:04.611] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[28Mar2025 02:25:04.611] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[28Mar2025 02:25:04.612] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[28Mar2025 02:25:04.612] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[28Mar2025 02:25:04.612] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[28Mar2025 02:25:04.612] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[28Mar2025 02:25:04.612] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[28Mar2025 02:25:04.613] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[28Mar2025 02:25:04.613] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[28Mar2025 02:25:04.613] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[28Mar2025 02:25:04.613] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[28Mar2025 02:25:04.613] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[28Mar2025 02:25:04.613] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[28Mar2025 02:25:04.613] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[28Mar2025 02:25:04.613] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[28Mar2025 02:25:04.614] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[28Mar2025 02:25:04.614] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[28Mar2025 02:25:04.614] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[28Mar2025 02:25:04.614] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[28Mar2025 02:25:04.614] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[28Mar2025 02:25:04.614] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[28Mar2025 02:25:04.614] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[28Mar2025 02:25:04.614] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[28Mar2025 02:25:06.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[28Mar2025 02:25:06.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Mar2025 02:25:06.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Mar2025 02:25:06.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Mar2025 02:25:06.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Mar2025 02:25:06.532] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Mar2025 02:25:06.620] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Mar2025 02:25:06.621] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Mar2025 02:25:06.621] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Mar2025 02:25:06.621] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Mar2025 02:25:06.649] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[28Mar2025 02:25:06.652] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[28Mar2025 02:25:06.652] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
+[28Mar2025 02:25:06.654] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[28Mar2025 02:25:06.654] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[28Mar2025 02:25:06.656] [Thread-3/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[28Mar2025 02:25:06.875] [Server thread/INFO] [Framework/]: Loading server configs...
+[28Mar2025 02:25:06.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Mar2025 02:25:06.984] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:07.616] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:07.840] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[28Mar2025 02:25:09.305] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:09.959] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:10.819] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
+[28Mar2025 02:25:10.819] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, minecraft:end_cities]
+[28Mar2025 02:25:10.820] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:3 potentially creating overlapping structures detected. Structure sets: [alexscaves:cake_cave, alexscaves:ferrocave]
+[28Mar2025 02:25:10.821] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost]
+[28Mar2025 02:25:10.821] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [minecraft:villages, nova_structures:villages_jungle, nova_structures:villages_swamp]
+[28Mar2025 02:25:10.822] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
+[28Mar2025 02:25:10.822] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:2 potentially creating overlapping structures detected. Structure sets: [alexscaves:ocean_trench, alexscaves:acid_pit]
+[28Mar2025 02:25:10.823] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [nova_structures:desert_ruins, nova_structures:jungle_ruins]
+[28Mar2025 02:25:10.832] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:10.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Mar2025 02:25:12.057] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:12.623] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:13.427] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:14.050] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:14.679] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:15.661] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:17.392] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:17.568] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.570] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.572] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.573] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.574] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.578] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.582] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.584] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.584] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.585] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.585] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.586] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.589] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.590] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 02:25:17.991] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[28Mar2025 02:25:18.205] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[28Mar2025 02:25:18.491] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[28Mar2025 02:25:18.574] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[28Mar2025 02:25:18.764] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7773 ms
+[28Mar2025 02:25:18.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.123s)! For help, type "help"
+[28Mar2025 02:25:18.852] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Mar2025 02:25:18.903] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[28Mar2025 02:25:18.912] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2035
+[28Mar2025 02:25:38.634] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[28Mar2025 02:25:38.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/127.104.78.195:44073] logged in with entity id 742 at (258.08943774514603, 66.875, 142.78425164795888)
+[28Mar2025 02:25:38.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
+[28Mar2025 02:25:38.971] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
+[28Mar2025 02:25:39.977] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
+[28Mar2025 02:25:39.980] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
+[28Mar2025 02:25:44.685] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[28Mar2025 02:25:45.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[28Mar2025 02:25:45.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
+[28Mar2025 02:25:52.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [It Spreads]
