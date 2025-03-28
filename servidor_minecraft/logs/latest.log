@@ -354,3 +354,17 @@
 [28Mar2025 03:34:21.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Withering Heights]
 [28Mar2025 03:35:07.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Strong Undead]
 [28Mar2025 03:35:07.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Your First Receptacle]
+[28Mar2025 03:36:33.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Midgard2552[/127.53.27.81:42447] logged in with entity id 17235 at (256.69999998807907, 66.0, 131.549654758156)
+[28Mar2025 03:36:33.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 joined the game
+[28Mar2025 03:36:33.074] [Server thread/INFO] [Jade/]: Syncing config to Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721)
+[28Mar2025 03:36:34.090] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Midgard2552 (18)
+[28Mar2025 03:36:34.091] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Midgard2552
+[28Mar2025 03:36:37.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b2f48e0-3526-383b-968c-7681c44da721
+[28Mar2025 03:36:38.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b2f48e0-3526-383b-968c-7681c44da721
+[28Mar2025 03:36:38.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Midgard2552 (7b2f48e0-3526-383b-968c-7681c44da721) successfully connected to voice chat
+[28Mar2025 03:37:19.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> wazaaaaaa
+[28Mar2025 03:41:27.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> oa
+[28Mar2025 03:41:35.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> regrese de sacar a mi perro
+[28Mar2025 03:41:41.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> discord?
+[28Mar2025 03:43:41.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Aleksito27 to Midgard2552]
+[28Mar2025 03:48:01.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Bring Home the Beacon]
