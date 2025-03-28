@@ -191,6 +191,7 @@
       "minecraft:cave_spider": "2025-03-27 17:45:47 +0000",
       "minecraft:piglin": "2025-03-27 06:04:09 +0000",
       "minecraft:enderman": "2025-03-27 04:53:24 +0000",
+      "minecraft:stray": "2025-03-28 05:55:32 +0000",
       "minecraft:vex": "2025-03-27 03:47:35 +0000",
       "minecraft:zombie": "2025-03-26 17:38:42 +0000"
     },
@@ -4973,6 +4974,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-03-28 05:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-03-28 05:44:47 +0000"
@@ -4991,9 +4998,51 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-03-28 06:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 05:55:27 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 05:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-03-28 05:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 05:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 05:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-03-28 06:04:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-03-28 05:55:14 +0000"
     },
     "done": true
   },
@@ -5015,9 +5064,21 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-28 05:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-03-28 04:25:05 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-28 05:55:27 +0000"
     },
     "done": true
   },
@@ -5044,6 +5105,12 @@
       "has_sherd": "2025-03-28 05:08:34 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-03-28 06:21:28 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

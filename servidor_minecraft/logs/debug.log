@@ -6188,3 +6188,111 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Mar2025 05:52:53.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Mar2025 05:52:53.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Mar2025 05:53:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> we como te meueres con eso
+[28Mar2025 05:53:19.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Chest Slayer]
+[28Mar2025 05:53:29.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> no te da una llave cuando mueres?
+[28Mar2025 05:53:42.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> si pero no esta encantada
+[28Mar2025 05:53:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> dale click derecho sosteniendolo y te teletransportara en donde moriste
+[28Mar2025 05:54:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> ya lo inetete
+[28Mar2025 05:54:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> gritos de macho mid
+[28Mar2025 05:54:16.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was slain by Husk
+[28Mar2025 05:54:16.785] [Server thread/DEBUG] [tombstone/]: A new grave of the player pepito was created at position [x:99, y:95, z:133, dim:minecraft:overworld]
+[28Mar2025 05:54:16.803] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
+[28Mar2025 05:54:17.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> XD
+[28Mar2025 05:54:22.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman has made the advancement [Alex's Caves]
+[28Mar2025 05:54:27.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> hijos de put
+[28Mar2025 05:54:42.700] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=177, y=-30, z=93}) doesn't have enough leaves around top most log
+[28Mar2025 05:54:43.499] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=177, y=-29, z=93}) doesn't have enough leaves around top most log
+[28Mar2025 05:54:44.300] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=177, y=-28, z=93}) doesn't have enough leaves around top most log
+[28Mar2025 05:54:46.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Suit Up]
+[28Mar2025 05:54:55.695] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=180, y=-30, z=93}) doesn't have enough leaves around top most log
+[28Mar2025 05:55:07.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Stolen Magic]
+[28Mar2025 05:55:14.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Magic Siphoner]
+[28Mar2025 05:55:27.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/43375, l='ServerLevel[world]', x=138.94, y=-53.00, z=233.99] died: Vouzhul the Darkmaster was slain by Aleksito27 using [Killer Of Virgins]
+[28Mar2025 05:56:22.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Acquire Hardware]
+[28Mar2025 05:57:28.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> mid ven conmigo
+[28Mar2025 05:57:40.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> boy
+[28Mar2025 05:57:53.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 05:57:53.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 05:57:55.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> pera diamantes
+[28Mar2025 05:57:59.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was shot by Skeleton
+[28Mar2025 05:57:59.044] [Server thread/DEBUG] [tombstone/]: A new grave of the player pepito was created at position [x:103, y:95, z:132, dim:minecraft:overworld]
+[28Mar2025 05:57:59.048] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
+[28Mar2025 05:58:09.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ya tengo 8 diamantes
+[28Mar2025 05:58:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Not Today, Thank You]
+[28Mar2025 05:58:42.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> 10
+[28Mar2025 05:59:03.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Vex
+[28Mar2025 05:59:03.996] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:222, y:-31, z:60, dim:minecraft:overworld]
+[28Mar2025 05:59:03.999] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 05:59:05.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito was slain by Husk
+[28Mar2025 05:59:05.488] [Server thread/DEBUG] [tombstone/]: A new grave of the player pepito was created at position [x:99, y:95, z:133, dim:minecraft:overworld]
+[28Mar2025 05:59:05.508] [Server thread/INFO] [tombstone/]: The player pepito has successfully been saved
+[28Mar2025 05:59:30.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> ontas
+[28Mar2025 05:59:38.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> sigue las antorchas
+[28Mar2025 05:59:48.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> pera mina
+[28Mar2025 05:59:50.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> con cofres
+[28Mar2025 06:00:01.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> estoy viendo a un wey que me mira
+[28Mar2025 06:01:02.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> lo puedo ver me dice que lo tengo que matar
+[28Mar2025 06:01:46.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> es un aldeano malo
+[28Mar2025 06:02:08.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> yendi contigo
+[28Mar2025 06:02:10.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> perame
+[28Mar2025 06:02:45.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 was slain by Vex
+[28Mar2025 06:02:45.896] [Server thread/DEBUG] [tombstone/]: A new grave of the player MICTLAN235 was created at position [x:239, y:-44, z:57, dim:minecraft:overworld]
+[28Mar2025 06:02:45.899] [Server thread/INFO] [tombstone/]: The player MICTLAN235 has successfully been saved
+[28Mar2025 06:02:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 was killed by Rumak the Dark using magic
+[28Mar2025 06:02:52.997] [Server thread/DEBUG] [tombstone/]: A new grave of the player Midgard2552 was created at position [x:237, y:-44, z:56, dim:minecraft:overworld]
+[28Mar2025 06:02:53.000] [Server thread/INFO] [tombstone/]: The player Midgard2552 has successfully been saved
+[28Mar2025 06:02:53.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:02:53.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 06:03:16.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has made the advancement [Stolen Magic]
+[28Mar2025 06:03:17.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Rumak the Dark'/41221, l='ServerLevel[world]', x=240.70, y=-51.12, z=53.30] died: Rumak the Dark was slain by Midgard2552
+[28Mar2025 06:04:13.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> no te escucho
+[28Mar2025 06:04:21.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ven
+[28Mar2025 06:04:26.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ten
+[28Mar2025 06:04:29.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3b6eece8-baa9-3e51-8999-07090befd51e timed out
+[28Mar2025 06:04:29.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player pepito
+[28Mar2025 06:04:29.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to pepito
+[28Mar2025 06:04:29.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with pepito
+[28Mar2025 06:04:29.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with pepito
+[28Mar2025 06:04:29.369] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to pepito
+[28Mar2025 06:04:29.370] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 3b6eece8-baa9-3e51-8999-07090befd51e to disconnected: {disabled=true, disconnected=true, uuid=3b6eece8-baa9-3e51-8999-07090befd51e, name=pepito, group=null}
+[28Mar2025 06:04:29.552] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of pepito: {disabled=true, disconnected=true, uuid=3b6eece8-baa9-3e51-8999-07090befd51e, name=pepito, group=null}
+[28Mar2025 06:05:10.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> no
+[28Mar2025 06:05:22.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> mira esto
+[28Mar2025 06:05:58.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepito lost connection: Disconnected
+[28Mar2025 06:05:58.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito left the game
+[28Mar2025 06:05:58.058] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of pepito
+[28Mar2025 06:05:58.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pepito
+[28Mar2025 06:06:04.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> vamonos para arrba
+[28Mar2025 06:06:49.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> te estoy viendo por twich pero tiene retrazo de 20 segundos
+[28Mar2025 06:06:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> pero me escuchas en mc?
+[28Mar2025 06:07:02.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> no
+[28Mar2025 06:07:19.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MICTLAN235 has made the advancement [Alex's Caves]
+[28Mar2025 06:07:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> tienes el sonido desactivo mic
+[28Mar2025 06:07:31.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> desactivado
+[28Mar2025 06:07:33.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> configuralo para que me escches
+[28Mar2025 06:07:42.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> uana mesa
+[28Mar2025 06:07:53.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:07:53.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 06:08:23.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> que es ?
+[28Mar2025 06:08:36.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> ni idea
+[28Mar2025 06:09:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Midgard2552> por aqui es la salida creo
+[28Mar2025 06:10:10.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MICTLAN235> ven
+[28Mar2025 06:11:00.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Aleksito27 to MICTLAN235]
+[28Mar2025 06:11:43.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
+[28Mar2025 06:12:04.846] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: WarpModeRejected
+[28Mar2025 06:12:07.108] [Server thread/INFO] [net.blay09.mods.waystones.core.PlayerWaystoneManager/]: Rejected teleport: WarpModeRejected
+[28Mar2025 06:12:17.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Midgard2552: Teleported Midgard2552 to Aleksito27]
+[28Mar2025 06:12:53.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:12:53.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 06:16:13.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Alex's Caves]
+[28Mar2025 06:17:53.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:17:53.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 06:18:24.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: S3bastian_Gaman lost connection: Disconnected
+[28Mar2025 06:18:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3bastian_Gaman left the game
+[28Mar2025 06:18:24.049] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of S3bastian_Gaman
+[28Mar2025 06:18:24.049] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client S3bastian_Gaman
+[28Mar2025 06:21:28.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/694, l='ServerLevel[world]', x=177.38, y=-30.00, z=-49.46] died: Corvin the Rotten was slain by Aleksito27 using [Killer Of Virgins]
+[28Mar2025 06:21:28.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [Serious Dedication]
+[28Mar2025 06:21:58.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Midgard2552 has completed the challenge [Serious Dedication]
+[28Mar2025 06:22:53.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 06:22:53.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
