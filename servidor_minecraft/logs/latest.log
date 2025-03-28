@@ -327,3 +327,9 @@
 [28Mar2025 02:25:45.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
 [28Mar2025 02:25:45.698] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
 [28Mar2025 02:25:52.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [It Spreads]
+[28Mar2025 02:54:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [A Terrible Fortress]
+[28Mar2025 02:55:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Radioactive]
+[28Mar2025 02:56:13.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6504, l='ServerLevel[world]', x=-135.26, y=-20.00, z=-77.74] died: Toxic Slime was killed
+[28Mar2025 02:58:07.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Strange Biomes]
+[28Mar2025 02:58:07.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Hellfire Mantle]
+[28Mar2025 03:01:59.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Spooky Scary Skeleton]
